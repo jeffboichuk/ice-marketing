@@ -1,0 +1,32 @@
+--- 
+knit: "bookdown::render_book"
+title: "Daily Schedule for ICE Marketing"
+site: bookdown::bookdown_site
+bibliography: [book.bib]
+csl: journal-of-marketing.csl
+link-citations: yes
+documentclass: book
+---
+
+# Course Summary {-}
+
+This course is focused on the marketing discipline's first law: “Don't sell what
+you happen to make; make what the consumer wants to buy” [@fennell-1978, p. 38].
+I hope the material we cover will hone your ability to apply critical thinking
+skills to the managerial decisions that companies have asked marketers to make
+for decades. These decisions result in strategies that tend to fall into four buckets that comprise a
+company's marketing mix. The first bucket pertains to product-related strategies. Here marketers answer questions like what shall we produce
+Conceptualizing marketing as the act of generating, disseminating, and
+responding to market intelligence will add structure to the discussions we have
+about how marketing can be practiced organization-wide to attain a market
+orientation and thereby optimize the triple bottom line for profits, people, and the
+planet. 
+
+Business takes place in a multifarious landscape that involves, at one point or another, several or all of the following constituents:
+
+Participants involved in marketplace transactions, at one point or another, are multifarious: companies, competitors, consumers, channel intermediaries (agents, distributors, retailers, and wholesalers), governmental regulatory bodies, suppliers,
+The decisions that marketers inform and help companies make to influence
+these outcomes fall within the realm of the marketing mix (i.e., product, price,
+promotion, and place).
+
+The of the enviroment are multifarious.

@@ -1,0 +1,24 @@
+book_filename: "ice-marketing"
+
+before_chapter_script: "_common.R"
+
+rmd_files: [
+  "index.Rmd",
+  "course-outline-and-midterm-launch", 
+  "generating-market-intelligence", 
+  "disseminating-market-intelligence", 
+  "responding-to-market-intelligence", 
+  "jc-penney-case-discussion", 
+  "just-case-discussion-a", 
+  "sales", 
+  "hubspot-case-discussion", 
+  "midpoint-review-and-margaritaville-project-working-session", 
+  "midterm-presentations", 
+  "debating-the-future-of-american-grocery", 
+  "starbucks-case-discussion", 
+  "mariebette-case-discussion", 
+  "black-friday-discussion", 
+  "just-case-discussion-b", 
+  "review-for-the-final-exam",
+  "references.Rmd",
+]
