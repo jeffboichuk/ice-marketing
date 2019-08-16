@@ -13,17 +13,17 @@ decision criteria
 
 ## Readings {-}
 
-- [Brand Activism at Starbucks – A Tall
-Order?][cian-parmar-boichuk-craddock-2018] [@cian-parmar-boichuk-craddock-2018]
+- [Brand Activism at Starbucks – A Tall Order?][harvard-coursepack]
+[@craddock-et-al-2018]  
 - [The New CEO Activists][chatterji-toffel-2018] [@chatterji-toffel-2018]
 
 ## Discussion Questions {-}
 
 1. What decision needs to be made in the Starbucks case, and what alternatives
 should Johnson be considering?  Arrive at three alternatives, with one being to
-only use nonconfrontational tactics [[see @chatterji-toffel-2018, p. 82].
-2. What guiding principles should Starbucks use to decide among the initiatives,
-if any,that it should pursue to improve race relations in America? Leverage
+only use nonconfrontational tactics [see @chatterji-toffel-2018, p. 82].
+2. What guiding principles should Starbucks use to decide among initiatives that
+it could pursue to improve race relations in America?
 
 ## Assignments Made {-}
 
@@ -33,5 +33,5 @@ if any,that it should pursue to improve race relations in America? Leverage
 
 - 
 
-[cian-parmar-boichuk-craddock-2018]: https://hbsp.harvard.edu/coursepacks/651114
-[chatterji-toffel-2018]: http://re5qy4sb7x.search.serialssolutions.com/?SS_searchTypeJournal=yes&V=1.0&N=100&L=RE5QY4SB7X&S=AC_T_M&C=harvard+business+review
+[harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
+[chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site

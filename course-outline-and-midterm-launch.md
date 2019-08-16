@@ -10,8 +10,8 @@
 marketing, a discipline that at its core is about information processing and
 decision making to optimize the triple bottom line  
 - To learn how you can focus on work that is grand, novel, curiosity-inducing,
-broad in scope, and actionable to give the projects you dedicate time to and
-your career momentum out of the gate  
+broad in scope, and actionable to give both the projects you dedicate time to
+and your career momentum out of the gate
 - To enhance the degree to which you are prepared to leverage business case
 studies to (a) simulate the experience of decision making and (b) sharpen your
 critical thinking skills
@@ -23,6 +23,7 @@ Implications][kohli-jaworski-1990] [@kohli-jaworski-1990]
 - [Eager Sellers and Stony Buyers][gourville-2006] [@gourville-2006]  
 - [An Introductory Note on the Case Method][haywood-farmer-2008]
 [@haywood-farmer-2008]
+
 
 ## Discussion Questions {-}
 

@@ -1,8 +1,8 @@
-# `r class_session[[2, "date"]]` {-}
+# `r class_session[[9, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[2, "topic"]]`
+- `r class_session[[9, "topic"]]`
 
 ## Objective {-}
 

@@ -3,7 +3,7 @@ knit: "bookdown::render_book"
 title: "Daily Schedule for ICE Marketing"
 site: bookdown::bookdown_site
 bibliography: [book.bib]
-csl: journal-of-marketing.csl
+csl: american-marketing-association.csl
 link-citations: yes
 documentclass: book
 ---

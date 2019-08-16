@@ -11,9 +11,9 @@
 ## Readings {-}
 
 - [Marketing Analysis Toolkit: Customer Lifetime Value
-Analysis][steenburgh-avery-2017] [@steenburgh-avery-2017]
-- [Hubspot: Inbound Marketing and Web 2.0][steenburgh-avery-dahod-2011]
-[@steenburgh-avery-dahod-2011]
+Analysis][harvard-coursepack]
+- [Hubspot: Inbound Marketing and Web 2.0][harvard-coursepack]
+
 
 ## Discussion Questions {-}
 
@@ -41,5 +41,4 @@ Build an argument for your decision.
 
 - 
 
-[steenburgh-avery-2017]: 
-[steenburgh-avery-dahod-2011]: 
+[harvard-coursepack]: https://hbsp.harvard.edu/import/651114
