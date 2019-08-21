@@ -6,9 +6,8 @@
 
 ## Objective {-}
 
-- To learn how to develop an in-depth strategic plan for one component of the
-marketing mix.
-- To practice your presentation skills and receive feedback from Josh Tetrick, CEO of Just
+- To learn how to develop an in-depth strategic plan for a single component of
+the marketing mix
 
 ## Readings {-}
 
@@ -69,13 +68,16 @@ product manufacturers can develop these strategies productively. Thus, reading
     restaurant types should Just target in the food-service sector: fast-food or
     full-service restaurants?
 
-## Assignments Made {-}
-
-- 
-
 ## Assignments Due {-}
 
 - 
+
+## Assignments Made {-}
+
+- **Individual preparation**: Answers to next class's discussion questions,
+typed, printed, and stapled (if your answers amount to more than one page), with
+your name, computing ID, and block number in the top, right-hand corner of the
+page
 
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [HBR]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite

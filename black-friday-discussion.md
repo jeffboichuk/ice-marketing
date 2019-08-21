@@ -16,10 +16,10 @@
 
 1. 
 
-## Assignments Made {-}
+## Assignments Due {-}
 
 - 
 
-## Assignments Due {-}
+## Assignments Made {-}
 
 - 

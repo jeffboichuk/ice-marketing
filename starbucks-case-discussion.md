@@ -20,18 +20,22 @@ decision criteria
 ## Discussion Questions {-}
 
 1. What decision needs to be made in the Starbucks case, and what alternatives
-should Johnson be considering?  Arrive at three alternatives, with one being to
-only use nonconfrontational tactics [see @chatterji-toffel-2018, p. 82].
+should Johnson be considering? Arrive at three alternatives, with one being to
+only engage in brand activism on the topic of race relations in America
+nonconfrontationally [see @chatterji-toffel-2018, p. 82].
 2. What guiding principles should Starbucks use to decide among initiatives that
-it could pursue to improve race relations in America?
+it could pursue to improve race relations in America? Define and rank the
+guiding principles you arrive at cogently.
+
+## Assignments Due {-}
+
+- **Individual preparation**: Answers to today's discussion questions, typed,
+printed, and stapled (if your answers amount to more than one page), with your
+name, computing ID, and block number in the top, right-hand corner of the page
 
 ## Assignments Made {-}
 
 - Starbucks Case Report (due `r class_session[[14, "date"]]`)
-
-## Assignments Due {-}
-
-- 
 
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site

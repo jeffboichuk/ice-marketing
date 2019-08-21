@@ -30,15 +30,21 @@ Show your work.
 5. What direction does your research suggest Halligan and Shah should go in?
 Build an argument for your decision.
 
-## Assignments Made {-}
-
-- Midpoint Course Evaluation (due tonight at 7:00 pm)
-    - Midpoint Course Evaluation Survey
-    - Pledge Survey
-- Hubspot Case Report (due `r class_session[[10, "date"]]`)
-
 ## Assignments Due {-}
 
 - 
 
+## Assignments Made {-}
+
+- **Individual homework**: Midpoint Course Evaluation (due tonight at 7:00
+pm)
+    - [Midpoint Course Evaluation Survey][]
+    - [Pledge Survey][]
+- **Individual homework**: A response to next class's discussion question,
+typed, printed, and stapled (if your answers amount to more than one page), with
+your name, computing ID, and block number in the top, right-hand corner of the
+page
+
 [harvard-coursepack]: https://hbsp.harvard.edu/import/651114
+[Midpoint Course Evaluation Survey]: https://forms.gle/iMzbSVjojpspBwBL6
+[Pledge Survey]: https://forms.gle/EDd6j8ipwL5xCrh17

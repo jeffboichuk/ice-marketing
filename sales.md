@@ -16,10 +16,10 @@
 
 1. 
 
-## Assignments Made {-}
-
-- 
-
 ## Assignments Due {-}
+
+- J.C. Penney Case Report
+
+## Assignments Made {-}
 
 - 

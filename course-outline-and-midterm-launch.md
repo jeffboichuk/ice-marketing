@@ -7,8 +7,8 @@
 ## Objective {-}
 
 - To outline how our subsequent sessions will cover the broad discipline of
-marketing, a discipline that at its core is about information processing and
-decision making to optimize the triple bottom line  
+marketing, a discipline that at its core is about processing information and
+making decisions to optimize the triple bottom line  
 - To learn how you can focus on work that is grand, novel, curiosity-inducing,
 broad in scope, and actionable to give both the projects you dedicate time to
 and your career momentum out of the gate
@@ -36,17 +36,22 @@ orientation?
 5. In what contexts might a market orientation be less important to a company's
 performance?
 
-## Assignments Made {-}
-
-- None
-
 ## Assignments Due {-}
 
-- Written answers to today’s discussion questions (1-2 pages)
+- Today’s discussion questions (1-2 pages)
 - Confirmation that you have printed and organized the readings for ICE
 Marketing via this survey
 - Confirmation that you have had an informal discussion of the midterm project
 with your group members via this survey
+
+## Assignments Made {-}
+
+- Midterm project (due )
+- In-class group presentations
+    - Formula Complete Fitness 💪
+    - Hard Discounters vs. E-tailers 🥊
+    - MarieBette ☕
+    - Just 🐔
 
 [gourville-2006]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=20773214&site=ehost-live&scope=site
 [haywood-farmer-2008]: https://www.iveycases.com/media/16122/intro-note-to-case-method.pdf

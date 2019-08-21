@@ -6,7 +6,8 @@
 
 ## Objective {-}
 
-- 
+- To practice your presentation skills and receive feedback from TJL co-founder
+Mike Keenan
 
 ## Readings {-}
 
@@ -16,10 +17,10 @@
 
 1. 
 
-## Assignments Made {-}
+## Assignments Due {-}
 
 - 
 
-## Assignments Due {-}
+## Assignments Made {-}
 
 - 

@@ -16,10 +16,12 @@
 
 1. 
 
-## Assignments Made {-}
+Collect data that might be relevant for making a decision.
+
+## Assignments Due {-}
 
 - 
 
-## Assignments Due {-}
+## Assignments Made {-}
 
 - 
