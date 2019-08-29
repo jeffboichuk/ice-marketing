@@ -6,22 +6,22 @@
 
 ## Objective {-}
 
-- To work on developing action plans for IIP 3 of the M'ville project that are
-seamless and concrete.
+- To work on developing action plans for IIP 3 of the Margaritaville project
+that are seamless and concrete
 
 ## Readings {-}
 
-- ICE Interdisciplinary Project ("IIP") Overview
+- [Interdisciplinary Project Project Description][]
 
-## Discussion Questions {-}
+## Discussion Question {-}
 
-How should M'ville implement your recommendation, and how did you arrive at
-these implementation choices? IIP 3 asks you to form a well-reasoned answer to
-this question that spans the four elements of the marketing mix.
+How should Margaritaville implement your recommendation, and how did you arrive
+at these implementation choices? IIP 3 asks you to form a well-reasoned answer
+to this question that spans the four elements of the marketing mix.
 
 Rather than have separate paragraphs or sections for each of the four Ps, the
 action plan you advance in your IIP 3 Client Report should be *seamless*. As is
-true for inter-disciplinary curriculum in business schools 😉, the best action
+true for inter-disciplinary curriculum in business schools, the best action
 plans are integrated. What does this mean practically? You should think of the
 marketing mix as a framework you can use to create a comprehensive action plan.
 However, it would be a mistake to let the framework silo your thinking or the
@@ -42,17 +42,18 @@ synergistically. As a result, your action plan will be greater than a sum of the
 four Ps.
 
 The best action plans are also *concrete*. What does this mean practically? You
-should not leave statements like "we think the line of M'ville toasters that we
-are proposing should enter the market at a high price" undefined. What is a
-*high* price? In this case, you need to assign dollar values to the individual
-toasters that you think should be launched, using cogent reasoning, in order for
-your action plan to carry weight. No matter the marketing-mix variable, try to
-bring your recommendations to life by pushing your analysis beyond the abstract.
-The action plan you develop should unambiguously describe what your initiative
-would look like in the market and get as close to reality as possible.
+should not leave statements like "we think the line of Margaritaville toasters
+that we are proposing should enter the market at a high price" undefined. What
+is a *high* price? In this case, you need to assign dollar values to the
+individual toasters that you think should be launched, using cogent reasoning,
+in order for your action plan to carry weight. No matter the marketing-mix
+variable, try to bring your recommendations to life by pushing your analysis
+beyond the abstract. The action plan you develop should unambiguously describe
+what your initiative would look like in the market and get as close to reality
+as possible.
 
 Come to class having individually written at least a page of new ideas for your
-group's action plan. Strive to describe how M'ville should implement your
+group's action plan. Strive to describe how Margaritaville should implement your
 recommendation, and how you arrived at these implementation choices, both
 seamlessly and concretely. In class, your group will be given time to share your
 ideas with one another, offer constructive feedback, and make progress on your
@@ -60,17 +61,10 @@ IIP 3 Client Report.
 
 ## Assignments Due {-}
 
-- **Individual preparation**: Midpoint Course Evaluation (due yesterday at 7:00
-pm)
-    - [Midpoint Course Evaluation Survey][]
-    - [Pledge Survey][]
-- **Individual preparation**: A response to today's discussion question, typed,
-printed, and stapled (if your answers amount to more than one page), with your
-name, computing ID, and block number in the top, right-hand corner of the page
+- A response to today's discussion question
 
 ## Assignments Made {-}
 
-- 
+- None
 
-[Midpoint Course Evaluation Survey]: https://forms.gle/iMzbSVjojpspBwBL6
-[Pledge Survey]: https://forms.gle/EDd6j8ipwL5xCrh17
+[Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-137365-dt-content-rid-866173_1/xid-866173_1

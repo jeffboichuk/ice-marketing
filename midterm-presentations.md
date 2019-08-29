@@ -6,21 +6,24 @@
 
 ## Objective {-}
 
-- To practice your presentation skills and receive feedback from TJL co-founder
-Mike Keenan
+- To apply the skills we are developing in Marketing to a real-life situation,
+such that you end up turning consumer/customer data into significant,
+actionable, interesting, novel, and broad insights for The Juice Laundry
 
 ## Readings {-}
 
-- [][] [@]  
+- Midterm Project Outline  
 
 ## Discussion Questions {-}
 
-1. 
+- None
 
 ## Assignments Due {-}
 
-- 
+- Midterm Report
+- Midterm Presentation
 
 ## Assignments Made {-}
 
-- 
+- Answers to the discussion questions for Marketing on `r class_session[[11,
+"date"]]`

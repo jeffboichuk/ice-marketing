@@ -10,10 +10,10 @@
 
 ## Readings {-}
 
-- [Marketing Analysis Toolkit: Customer Lifetime Value
-Analysis][harvard-coursepack]
 - [Hubspot: Inbound Marketing and Web 2.0][harvard-coursepack]
-
+[@steenburgh-avery-dahod-2017]
+- [Marketing Analysis Toolkit: Customer Lifetime Value
+Analysis][harvard-coursepack] [@steenburgh-avery-2017]
 
 ## Discussion Questions {-}
 
@@ -32,19 +32,23 @@ Build an argument for your decision.
 
 ## Assignments Due {-}
 
-- 
+- Answers to today's discussion questions
+- A group discussion of your analysis of the Hubspot case before today's class
+- JUST Case Report (for bonus participation credit only)
+- Midpoint Course Evaluation (due tonight at 7:00 pm)
+    - [Midpoint Course Evaluation Survey][]
+    - [Pledge Survey][]
 
 ## Assignments Made {-}
 
-- **Individual homework**: Midpoint Course Evaluation (due tonight at 7:00
-pm)
-    - [Midpoint Course Evaluation Survey][]
-    - [Pledge Survey][]
-- **Individual homework**: A response to next class's discussion question,
-typed, printed, and stapled (if your answers amount to more than one page), with
-your name, computing ID, and block number in the top, right-hand corner of the
-page
+- [Hubspot Case Reflection][hubspot-case-reflection] (due `r class_session[[9,
+"date"]]`)
+- A response to the discussion question for Marketing on `r class_session[[9,
+"date"]]`
+- Hubspot Case Report (for bonus participation credit only; due 
+`r class_session[[12, "date"]]`)
 
 [harvard-coursepack]: https://hbsp.harvard.edu/import/651114
+[hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
 [Midpoint Course Evaluation Survey]: https://forms.gle/iMzbSVjojpspBwBL6
 [Pledge Survey]: https://forms.gle/EDd6j8ipwL5xCrh17

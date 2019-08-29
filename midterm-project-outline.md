@@ -1,13 +1,13 @@
 # (PART) Midterm {-}
 
-# Midterm Outline {-}
+# Midterm Project Outline {-}
 
 ## Overview and Objectives {-}
 
 ### Overview {-}
-The primary goal of this midterm report is to give you an opportunity to apply
-the skills you are learning in ICE Marketing to a real-life situation, such that
-you end up turning consumer/customer data that you generate and will be given
+The primary goal of this midterm project is to give you an opportunity to apply
+the skills you are learning in Marketing to a real-life situation, such that
+you end up turning consumer/customer data that you collect and will be given
 into [significant, actionable, interesting, novel, and broad insights][Colquitt
 and George 2011] for [The Juice Laundry][tjl] (TJL), a local Charlottesville
 business that is partnering with us for the purposes of this midterm report.

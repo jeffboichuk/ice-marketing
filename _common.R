@@ -26,17 +26,17 @@ tibble(
       "Disseminating Market Intelligence",                                  # 3
       "Responding to Market Intelligence",                                  # 4
       "J.C. Penney Case Discussion",                                        # 5
-      "Just Case Discussion (A)",                                           # 6
-      "Sales",                                                              # 7
+      "Just (A) Case Discussion",                                           # 6
+      "Formula Complete Fitness Presentations",                             # 7
       "Hubspot Case Discussion",                                            # 8
       "Midpoint Review and Margaritaville Project Working Session",         # 9
       "Midterm Presentations",                                              # 10
-      "Debating the Future of American Grocery",                            # 11
+      "Hard Discounters vs. Online Orders Presentations",                   # 11
       "Starbucks Case Discussion",                                          # 12
-      "MarieBette Case Discussion",                                         # 13
-      "Black Friday Discussion",                                            # 14
-      "Just Case Discussion (B)",                                           # 15
-      "Review for the Final Exam"                                           # 16
+      "MarieBette Presentations",                                           # 13
+      "Under Armour Case Discussion",                                       # 14
+      "Just (B) Presentations",                                             # 15
+      "1-800-Flowers.com Case Discussion"                                   # 16
    )
 ) %>% 
    mutate(

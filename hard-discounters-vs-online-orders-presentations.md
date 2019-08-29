@@ -8,7 +8,7 @@
 
 - To debate whether retail disruptors (e.g., Aldi, Lidl) or online orders (e.g.,
 via Instacart, Prime Now, Walmart.com) represent a more significant threat to
-legacy grocers (e.g., Kroger, HEB) in the United States over the next ten years.
+legacy grocers (e.g., Kroger, HEB) in the United States over the next ten years
 
 ## Readings {-}
 
@@ -22,32 +22,29 @@ Nearest Rival][perez-2019] [@perez-2019]
 
 ## Discussion Questions {-}
 
-The two groups that choose to develop 12-minute presentations for this class
-session will present arguments for or against the following statement:
+1. What factors weigh most heavily on consumers' grocery shopping habits in the
+United States?
+2. Compare and contrast hard discounters and online orders with legacy grocers.
+What are the most important ways in which these three classes of trade differ
+from one another?
+3. Based on today's readings, build an argument for or against the following
+statement:
 
 > Compared to online orders (e.g., Instacart, Prime Now, Walmart.com), retail
 disruptors (e.g., Aldi, Lidl) represent a more significant threat to legacy
 grocers (e.g., Kroger, HEB) in the United States over the next ten years.
 
-[Bruce Montgomery][] will join us in class to hear these presentations. Both
-groups should prepare their arguments as they would if they were presenting at a
-conference attended by grocers (think Walmart, Kroger, Albertsons, etc.) and
-food and beverage companies (think PepsiCo, AB inBev, General Mills, etc.) in
-"the real world," with the goal of persuading the audience that either retail
-disruptors or online orders represent a more significant threat to legacy
-grocers in the United States over the next ten years. Aim for the highest
-realistic level of persuasion that you can (e.g., a majority of the audience's
-support for your group's position in the debate), and try your best to receive
-the audience's vote at the conclusion of the presentations. Both group
-presentations will be followed by up to eight minutes of Q&A.
-
 ## Assignments Due {-}
 
-- 
+- Answers to today's discussion questions
+- Hard Discounters vs. Online Orders Presentation (for presenting groups only)
 
 ## Assignments Made {-}
 
-- 
+- Answers to the discussion questions for Marketing on `r class_session[[12,
+"date"]]`
+- A group discussion of your analysis of the Starbucks case before Marketing on
+`r class_session[[12, "date"]]`
 
 [Bruce Montgomery]: https://www.linkedin.com/in/brucemontgomery/
 [meyersohn-2019]: https://www.cnn.com/interactive/2019/05/business/aldi-walmart-low-food-prices/

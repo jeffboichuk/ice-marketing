@@ -7,7 +7,7 @@
 ## Objective {-}
 
 - To gain a better understanding of when and how companies should engage in
-brand activism.
+brand activism
 - To strengthen your ability to evaluate alternatives in view of substantive
 decision criteria
 
@@ -29,13 +29,16 @@ guiding principles you arrive at cogently.
 
 ## Assignments Due {-}
 
-- **Individual preparation**: Answers to today's discussion questions, typed,
-printed, and stapled (if your answers amount to more than one page), with your
-name, computing ID, and block number in the top, right-hand corner of the page
+- Answers to today's discussion questions
+- Hubspot Case Report (for bonus participation credit only)
 
 ## Assignments Made {-}
 
-- Starbucks Case Report (due `r class_session[[14, "date"]]`)
+- [Starbucks Case Reflection][starbucks-case-reflection] (due 
+`r class_session[[13, "date"]]`)
+- Starbucks Case Report (for bonus participation credit only; due 
+`r class_session[[14, "date"]]`)
 
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
+[starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
