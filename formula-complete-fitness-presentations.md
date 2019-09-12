@@ -17,12 +17,12 @@ effectively
 ## Discussion Questions {-}
 [Formula Complete Fitness][] is a treadmill studio that offers [group exercise
 classes][] to the Charlottesville community from its location on the corner of
-Preston Avenue and 10 Street NW. At least 75 percent of its clients are female,
-and Formula is interested in increasing the number of male UVA students that
-make use of its classes. In an effort to help Formula increase its reach, sift
-through the UVA student population for males that are likely to be susceptible
-to the group fitness classes that Formula offers or are underserved/dissatisfied
-in some way that Formula could address profitably.
+Preston Avenue and 10th Street NW. At least four fifths of its clients are
+female, and Formula is interested in increasing the number of male UVA students
+that make use of its classes. In an effort to help Formula increase its reach,
+sift through the UVA student population for males who are likely to be
+susceptible to the group fitness classes that Formula offers or are
+underserved/dissatisfied in some way that Formula could address profitably.
 
 1. How did you conduct your search and where did it lead you? In other words,
 what are the most common demographic, behavioral, and attitudinal

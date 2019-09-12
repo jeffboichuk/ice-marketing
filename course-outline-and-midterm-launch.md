@@ -1,3 +1,5 @@
+# (PART) Daily Schedule {-}
+
 # `r class_session[[1, "date"]]` {-}
 
 ## Topic {-}

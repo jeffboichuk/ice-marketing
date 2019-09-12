@@ -3,6 +3,7 @@ output_dir: "docs"
 before_chapter_script: "_common.R"
 rmd_files: [
   "index.Rmd",
+  
   "course-outline-and-midterm-launch.md", 
   "generating-market-intelligence.md", 
   "disseminating-market-intelligence.md", 
@@ -19,5 +20,11 @@ rmd_files: [
   "under-armour-case-discussion.md", 
   "just-b-presentations.md", 
   "1-800-flowers-com-case-discussion.md",
+  
+  "formula-complete-fitness-presentation-outline.md",
+  "hard-discounters-vs-online-orders-presentation-outline.md",
+  "mariebette-presentation-outline.md",
+  "just-b-presentation-outline.md",
+  
   "references.Rmd",
 ]

@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><strong><a href="./">Daily Schedule for ICE Marketing</a></strong></li>
+        <li><strong><a href="./">ICE Marketing (Blocks 5 & 6)</a></strong></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   latex_engine: xelatex

@@ -12,14 +12,14 @@ into [significant, actionable, interesting, novel, and broad insights][Colquitt
 and George 2011] for [The Juice Laundry][tjl] (TJL), a local Charlottesville
 business that is partnering with us for the purposes of this midterm report.
 
-The more you engage in the marketing process this report requires of you, the
-better you will be at generating, disseminating, and responding to market
-intelligence. Improving your ability to perform these three core activities will
-in turn allow you to help companies&mdash;especially those you want to work
-for&mdash;achieve a market orientation and optimize collective value. After all,
-optimizing collective value (i.e., prosperity) is arguably why society engages
-in commerce and, as a result, customer analytics in the first place ([Donaldson
-and Walsh 2015][]).
+The more you engage in the marketing process that this report requires of you,
+the better you will become at generating, disseminating, and responding to
+market intelligence [@kohli-jaworski-1990]. Improving your ability to perform
+these three core activities will in turn allow you to help
+companies&mdash;especially those you want to work for&mdash;achieve a market
+orientation and optimize collective value. After all, optimizing collective
+value (i.e., prosperity) is arguably why society engages in commerce and, as a
+result, marketing in the first place [@donaldson-walsh-2015].
 
 ### Company Overview {-}
 As a brief summary, TJL is an organic juice and smoothie bar with three
@@ -43,10 +43,10 @@ are Fresh. We are Clean. We are Organic. We are Curious. We are Passionate. We
 are Transparent. We Leave a Gentle Footprint." Missing in stores, however, are
 trash cans, as 100% of TJL's packaging is either compostable or reusable.
 
-For this midterm, TJL is offering us a lab of sorts, somewhere you can talk with
-business owners, employees, and customers; analyze data; develop and test ideas;
-and, eventually, see the impact of your hard work right in our backyard on the
-Corner.
+For this midterm, Mike and Sarah are offering us "[a lab of sorts][]"
+[@newman-2019], somewhere you can talk with them as well as TJL's employees and
+customers; analyze data; develop and test ideas; and, eventually, see the impact
+of your hard work right in our backyard on the Corner.
 
 ### Objectives
 Your objectives are threefold: (1) identify an area of TJL's business that is
@@ -55,10 +55,10 @@ in in this respect; and (3) develop a comprehensive and convincing action plan
 that logically flows from what you learn.
 
 #### Topic Identification
-In line with [Colquitt and George (2011)][Colquitt and George 2011], you should
-strive to identify and address a topic that:
+In line with [@colquitt-and-george-2011], you should strive to identify and
+address a topic that:
 
-* __Takes on a grand challenge__ (i.e., has a compelling raison d'�tre)
+* __Takes on a grand challenge__ (i.e., has a compelling raison d'être)
    + By aiming to solve a piece of a larger societal puzzle and, thus, having a
    compelling purpose (e.g., encouraging healthier eating habits, making
    commerce more sustainable).
@@ -84,36 +84,36 @@ mind, you should be positoned to engage in the marketing process and help TJL
 further achieve a market orientation.
 
 While developing a list of potential topics to focus on, I encourage you to be
-divergent in your thinking ([Peng 2018][]). Begin by conducting extensive
-research on [Elevate], [Euromonitor], [Factiva], [Google Trends], [Instagram],
-[Yelp], etc. This research, which can also occur in TJL's and its competitors'
-storefronts, will guide you to challenges that TJL is facing (e.g., some
-consumers perceive that TJL offers low [value][Zeithaml 1988]) as well as
-promising alternatives that TJL could consider implementing to address these
-challenges (e.g., launching an Instagram campaign focused on educating their
-followers about the true cost of food).
+[divergent][peng-2018] in your thinking [@peng-2018]. Begin by conducting
+extensive research on [Elevate], [Euromonitor], [Factiva], [Google Trends],
+[Instagram], [Yelp], etc. This research, which can also occur in TJL's and its
+competitors' storefronts, will guide you to challenges that TJL is facing (e.g.,
+some consumers perceive that TJL offers low [value][zeithaml-1988]
+[@zeithaml-1988]) as well as promising alternatives that TJL could consider
+implementing to address these challenges (e.g., launching an Instagram campaign
+focused on educating their followers about the true cost of food).
 
-   __Pro tip__: Be radically open minded&mdash;and [productively
-   stupid][Schwartz 2008]&mdash;during this first step and strive not to let
-   confirmation bias contaminate your findings as you make sense of the market
-   ([Gallo 2017][]).
+   __Pro tip__: Be [radically open minded][gallo-2017]&mdash;and [productively
+   stupid][schwartz-2008] [@schwartz-2008]&mdash;during this first step and
+   strive not to let confirmation bias contaminate your findings as you make
+   sense of the market [@gallo-2017].
 
-   __Pro tip__: Organize your observations into tidy datasets, such as those
+   __Pro tip__: Organize your observations into datasets, such as those
    discussed in [Chapter 12][Grolemund and Wickham 2017, 12] of R for Data
    Science so you can summarize them statistically and visually. This process
    will add rigor to your analysis and the insights you generate.
 
-Sort the challenges stemming from your research into buckets full of
-alternatives. Then, use the prioritization framework that [Colquitt and George
-(2011)][Colquitt and George 2011] offer to select the three challenges (i.e.,
-"topics") you believe are most worth looking into and highlight these topics in
-a [topic choice decision matrix][topic choice decision matrix template]. From
-here, you will arrive at the topic that you believe is most worth doing further
-research and reporting on for your midterm report and presentation.
+Sort the challenges stemming from your research into buckets of alternatives.
+Then, use the prioritization framework that [@colquitt-george-2011] offer to
+select the three buckets (i.e., "topics" or "challenges") that you believe are
+most worth looking into and highlight these topics in a [topic choice decision
+matrix][topic choice decision matrix template]. From here, you will arrive at
+the topic that you believe is most worth doing further research and reporting on
+for your midterm report and presentation.
 
-   __Pro tip__: Explain your topics clearly, so that Mike and Sarah will be able
-   to fully appreciate: (a) the challenges your topics are focused on overcoming
-   and (b) the alternatives your research has led you to consider.
+   __Pro tip__: Explain your topics clearly, so that decision makers will be
+   able to fully appreciate: (a) the challenges your topics are focused on
+   overcoming and (b) the alternatives your research has led you to consider.
 
 #### Alternative Evaluation
 Focused on the topic you identify, your next objective is to, in a concise and
@@ -122,12 +122,12 @@ that TJL could go in. Further, you should arrive at and implement a set of
 criteria that you believe Mike and Sarah should use to make decisions of this
 sort.
 
-Taken together, these two components (alternatives and criteria) will allow you
-to employ a [value model][Johnson 2018] for decision-making purposes. You might
-find it helpful to structure your value model using [this template][value model
-template]. Overall, the goal is to evaluate a set of well-balanced alternatives
-with a ranked set of relevant decision criteria in order to propose a course of
-action in a convincing manner.
+By bringing these two components (alternatives and criteria) together, you will
+complete a [value model][johnson-2018] for decision-making purposes
+[@johnson-2018]. You might find it helpful to structure your value model using
+[this template][value model template]. Overall, the goal is to evaluate a set of
+well-balanced alternatives with a ranked set of relevant decision criteria in
+order to propose a course of action in a convincing manner.
 
 On this point, you should strive to explain your alternatives clearly and define
 your criteria well, so that the scores you assign to the alternatives in your
@@ -331,38 +331,38 @@ scientific rigor with canny attention-grabbing][Allen 2017]" [@allen-2017].
 * The presenter's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1],
 well referenced, and free of errors.
 
+[a lab of sorts]: https://news.virginia.edu/content/seeking-real-world-case-study-one-commerce-professor-turned-corner
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations
-[Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
-[Bradlow, Fader, Yyengar, and Bernman]: https://www.coursera.org/learn/wharton-customer-analytics
-[Colquitt and George 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
-[Dalio 2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
-[Donaldson and Walsh 2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088
+[allen-2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
+[colquitt-and-george-2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
+[dalio-2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
+[donaldson-and-walsh-2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088
 [elevate]: https://www.elevatemealplan.com/uva-meal-plan
 [euromonitor]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [factiva]: http://proxy.its.virginia.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnMDItMDIoMDAp5DByMU38ODJ9RcyqUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
-[Gallo 2017]:https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
+[gallo-2017]: https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
 [Google Trends]: https://trends.google.com/trends/
 [Grolemund and Wickham 2017]: http://r4ds.had.co.nz
 [Grolemund and Wickham 2017, 3.3]: http://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings
 [Grolemund and Wickham 2017, 12]: https://r4ds.had.co.nz/tidy-data.html
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
-[Hadley 2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
+[hadley-2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
 [instagram]: https://www.instagram.com/
-[Jaworski and Kohli 1993]: https://pdfs.semanticscholar.org/82e7/864936822e1c97d5ebc9996fab705defcfdb.pdf
-[Johnson 2018]: https://nyti.ms/2C558Py
-[Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
+[jaworski-and-kohli-1993]: https://pdfs.semanticscholar.org/82e7/864936822e1c97d5ebc9996fab705defcfdb.pdf
+[johnson-2018]: https://nyti.ms/2C558Py
+[jolles-2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
 [jmr 1]: https://auth.ama.org/publications/JournalOfMarketingResearch/Pages/JMRSubmissionGuidelines.aspx
 [jmr 2]: https://auth.ama.org/publications/JournalOfMarketingResearch/Pages/JMR_Accepted_Ms.aspx
 [juicelaundry]: https://github.com/GCOM7140/juicelaundry#juicelaundry
-[Miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
-[Parker 2017]: https://peerj.com/preprints/3210/
-[Parker 2017/06/06]: https://twitter.com/hspter/status/872135582100578304
-[Peng 2011]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/
-[Peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
-[Polich and Whitenack 2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
-[Schwartz 2008]: http://jcs.biologists.org/content/121/11/1771
-[Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
-[Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
+[miller-2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
+[parker-2017]: https://peerj.com/preprints/3210/
+[parker-2017-06-06]: https://twitter.com/hspter/status/872135582100578304
+[peng-2011]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/
+[peng-2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
+[polich-and-whitenack-2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
+[schwartz-2008]: http://jcs.biologists.org/content/121/11/1771
+[sotos-2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
+[sword-2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
 [style files]: https://style.tidyverse.org/files.html 
 [style pipes]: https://style.tidyverse.org/pipes.html
 [style syntax]: https://style.tidyverse.org/syntax.html
@@ -371,5 +371,5 @@ well referenced, and free of errors.
 [topic choice decision matrix template]: https://github.com/GCOM7140/group-project/blob/master/docs/topic-choice-decision-matrix-template.docx
 [value model template]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/readings/value-model-template.docx
 [yelp]: https://www.yelp.com/
-[Zeithaml 1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85
-[Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf
+[zeithaml-1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85
+[zhang-and-shaw-2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf
