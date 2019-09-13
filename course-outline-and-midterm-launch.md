@@ -53,7 +53,7 @@ binder
     - Each presentation can be selected by two groups
 
 Deliverable | Due Date | Assignment<br>Type | Percentage of<br>COMM 3020
----------- | --------- | :---: | :-----:
+------------------------- | --------------------- | :----------: | :--------------:
 J.C. Penney Case Report                         | `r class_session[[7, "date"]]`  | Individual | Bonus
 JUST (A) Case Report                            | `r class_session[[8, "date"]]`  | Individual | Bonus
 Midterm Report                                  | `r class_session[[10, "date"]]` | Individual | 10%

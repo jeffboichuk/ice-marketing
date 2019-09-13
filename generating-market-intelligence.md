@@ -17,7 +17,7 @@ critical thinking skills
 - [Rediscovering Market Segmentation][yankelovich-meer-2006]
 [@yankelovich-meer-2006]
 - [Opinionated Analysis Development][parker-2017] [@parker-2017]
-- Case Report Rubric  
+- [Case Report Rubric][]  
 
 ## Discussion Questions {-}
 
@@ -45,6 +45,7 @@ spectrum* tool advanced by @yankelovich-meer-2006 for your answer.
 - Answers to the discussion questions for Marketing on `r class_session[[3,
 "date"]]` 
 
+[case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
 [greg driscoll]: https://virginiasports.com/staff.aspx?staff=435
 [midterm presentation sign-up sheet]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing
 [parker-2017]: https://peerj.com/preprints/3210/

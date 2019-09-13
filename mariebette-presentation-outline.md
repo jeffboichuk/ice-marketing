@@ -1,12 +1,12 @@
 # MarieBette {-}
 
 The two groups that choose to develop 12-minute presentations for Marketing on
-`r class_session[[13, "date"]]` will pitch action plans to [Jason
-Becton][about] (co-owner of MarieBette) for MarieBette's 2020 Black History
-Month Instagram Campaign. The campaign you develop should feature 29 people (one
-for each day of February 2020, which is a leap year) from the past or present
-who have shaped the United States and/or Charlottesville. Build out a Google
-Sheet like [this one][] to bring your plan to life.
+`r class_session[[13, "date"]]` will pitch plans to [Jason Becton][about]
+(co-owner of MarieBette) for MarieBette's 2020 Black History Month Instagram
+Campaign. The campaign you develop should feature 29 people (one for each day of
+February 2020, which is a leap year) from the past or present who have shaped
+the United States and/or Charlottesville. Build out a Google Sheet like [this
+one][] to bring your plan to life.
 
 A critical decision that Jason and his husband Patrick (co-owner of MarieBette)
 are considering relates to how national versus local the people that MarieBette
