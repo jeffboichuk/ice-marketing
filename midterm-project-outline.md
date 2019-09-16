@@ -242,7 +242,8 @@ these additional limits will ensure that you and visual aspects of your slides
 take center stage.
 
 #### Format {-}
-Use PowerPoint or Keynote for your presentation.
+Use PowerPoint or Keynote for your presentation. Dress is business casual. Honor
+your peers, and their work, with your full attention during their presentations.
 
 #### Assessment {-}
 After listening to your presentation, Mike, Sarah, your peers, and I will use
