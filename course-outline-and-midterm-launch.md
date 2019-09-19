@@ -54,12 +54,12 @@ binder
 
 Deliverable | Due Date | Assignment<br>Type | Percentage of<br>COMM 3020
 ------------------------- | --------------------- | :----------: | :--------------:
-J.C. Penney Case Report                         | `r class_session[[7, "date"]]`  | Individual | Bonus
-JUST (A) Case Report                            | `r class_session[[8, "date"]]`  | Individual | Bonus
+J.C. Penney Case Report                         | `r class_session[[7, "date"]]`  | Individual | 1 bonus point
+JUST (A) Case Report                            | `r class_session[[8, "date"]]`  | Individual | 1 bonus point
 Midterm Report                                  | `r class_session[[10, "date"]]` | Individual | 10%
 Midterm Presentation                            | `r class_session[[10, "date"]]` | Individual | 5%
-Hubspot Case Report                             | `r class_session[[12, "date"]]` | Individual | Bonus
-Starbucks Case Report                           | `r class_session[[14, "date"]]` | Individual | Bonus
+Hubspot Case Report                             | `r class_session[[12, "date"]]` | Individual | 1 bonus point
+Starbucks Case Report                           | `r class_session[[14, "date"]]` | Individual | 1 bonus point
 Formula Complete Fitness Presentation           | `r class_session[[7, "date"]]`  | Group      | 5%
 Hard Discounters vs. Online Orders Presentation | `r class_session[[11, "date"]]` | Group      | 5%
 MarieBette Presentation                         | `r class_session[[13, "date"]]` | Group      | 5%

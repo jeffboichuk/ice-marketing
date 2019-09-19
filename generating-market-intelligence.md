@@ -23,8 +23,8 @@ critical thinking skills
 
 1. How have you personally gone about searching for people in their 30s and 40s
 (i.e., born between 1960 and 1989) that are likely to be susceptible to the
-Margharitaville brand or underserved/dissatisfied in some way that
-Margharitaville could address profitably with a new initiative?
+Margaritaville brand or underserved / dissatisfied in some way that
+Margaritaville could address profitably with a new initiative?
 2. Where has your search and those of your group members led your group? In
 other words, what are the most common demographic, behavioral, and attitudinal
 characteristics of the people that your searches have turned up?
