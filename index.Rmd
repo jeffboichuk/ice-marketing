@@ -10,20 +10,36 @@ documentclass: book
 
 # Course Summary {-}
 
-Welcome to Marketing! This course is focused on the discipline's first law:
+Welcome to the marketing component of fall ICE! 
+
+During our time together, we will focus and expand on the marketing discipline's
+first law:
 
 > “Don't sell what you happen to make; make what the consumer wants to buy”
 [@fennell-1978, p. 38]. 
 
-Structured according to 4 Ps (product, price, promotion, and place), our class
-sessions will hone your ability to apply critical thinking skills to the
-managerial decisions being asked of marketers in today's information-based
-economy. Conceptualizing marketing as the act of generating, disseminating, and
-responding to market intelligence [@kohli-jaworski-1990] will allow us to
-discuss how marketing can be practiced organization-wide to attain a market
-orientation and optimize the triple bottom line for profits, people, and the
-planet [@elkington-2018].
+Our class sessions will hone your ability to apply critical thinking skills to
+the managerial decisions being asked of marketers in today's information-based
+economy. Oftentimes these decisions pertain to how a company should go about
+designing its marketing mix, which is composed of the famous 4 Ps (product,
+price, promotion, and place).
 
-This website includes the daily schedule for our class sessions, as well as
-outlines for the presentations your group can choose from and the midterm
-project.
+Conceptualizing marketing as the act of generating, disseminating, and
+responding to market intelligence [@kohli-jaworski-1990] will help us discuss
+how marketing can be practiced organization-wide to help companies attain a
+market orientation and optimize their triple bottom lines for profits, people,
+and the planet [@elkington-2018].
+
+If you were to answer the question "what is marketing?" during our first class
+session, it would be forgivable if you said that marketing and advertising are
+one and the same. By contrast, when our time together comes to a close on 
+`r class_session[[16, "date"]]`, you should find that your view of marketing has
+broadened and deepened, no matter your starting point. Indeed, marketing is a
+shared responsibility and everyone in an organization must perform the role of
+marketing at one point or another, whether or not they "sit" in the marketing
+department. You could even say that everything an employee does to "embrace
+reality and deal with it" [@dalio-2017, p. 132] falls into the realm of
+marketing.
+
+This website includes outlines for the presentations your group can choose from,
+an outline for the midterm project, and a daily schedule for our class sessions.

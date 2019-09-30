@@ -35,7 +35,8 @@ performance?
 
 ## Assignments Due {-}
 
-- Answers to today's discussion questions
+- Answers to today's discussion questions via [this
+link][submission-link-discussion-questions]
 - Print the readings for each class session of Marketing and organize them in a
 binder
 
@@ -43,12 +44,12 @@ binder
 
 - Answers to the discussion questions for Marketing on `r class_session[[2,
 "date"]]`
-- Midterm Presentation Sign-up Sheet
-    - Choose a three-minute presentation slot by inputting your first name, last
-    name, and computing ID
+- [Midterm Presentation Agenda][]
+    - Input your first name, last name, and computing ID to secure a
+    three-minute time slot for your presentation
     - Leave your presentation title blank for now
-- Group Presentation Sign-up Sheet
-    - As a group, choose one of the following group presentations
+- [Group Presentation Selection Survey][]
+    - As a group, rank the choices available to you for group presentations
     - The sign-up sheet will become available tonight at 6:00 pm 
     - Each presentation can be selected by two groups
 
@@ -69,3 +70,5 @@ JUST (B) Presentation                           | `r class_session[[15, "date"]]
 [haywood-farmer-2008]: https://www.iveycases.com/media/16122/intro-note-to-case-method.pdf
 [kohli-jaworski-1990]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=9602205182&site=ehost-live&scope=site
 [midterm presentation sign-up sheet]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing
+[submission-link-discussion-questions]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_140538_1&course_id=_2942_1
+[Midterm Presentation Agenda]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing
