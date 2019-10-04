@@ -52,11 +52,13 @@ binder
     to secure a three-minute time slot for your presentation
     - Leave your presentation title blank for now
 - [Group Presentation Preferences Form][]
-    - Review the group presentation outlines and rank the choices available to
-    you as a group
-    - Submit your preferences no later than tomorrow at 5:00 pm
-    - I will use the preferences you submit to allocate groups to presentations
-    and use a random number generator to break ties if necessary
+    - As a group, review the group presentation outlines and rank the choices
+    available to you
+    - Submit your group's presentation preferences form no later than tomorrow
+    at 5:00 pm
+    - I will use the preferences you submit to allocate your group to a
+    presentation and use a random number generator to break ties among groups if
+    necessary
 
 Deliverable | Due Date | Assignment<br>Type | Percentage of<br>COMM 3020
 ------------------------- | --------------------- | :----------: | :--------------:
