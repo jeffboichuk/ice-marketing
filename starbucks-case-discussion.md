@@ -30,6 +30,8 @@ guiding principles you arrive at cogently.
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - Hubspot Case Report (for bonus participation credit only)
 
 ## Assignments Made {-}
@@ -39,6 +41,7 @@ guiding principles you arrive at cogently.
 - Starbucks Case Report (for bonus participation credit only; due 
 `r class_session[[14, "date"]]`)
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9

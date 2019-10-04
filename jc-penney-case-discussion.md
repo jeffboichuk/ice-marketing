@@ -43,6 +43,8 @@ that will enable you to prepare more wisely? Refer to page 3 of
 Confucius
 
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - A group discussion of your analysis of the J.C. Penney case before today's
 class. As you prepare for and engage in your group discussion, you might find it
 helpful to consider the following guidelines that @haywood-farmer-2008 suggests
@@ -63,6 +65,7 @@ adhering to:
 - J.C. Penney Case Report (for bonus participation credit only; due 
 `r class_session[[7, "date"]]`)
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
 [thomke-manzi-2014]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=99619513&site=ehost-live&scope=site

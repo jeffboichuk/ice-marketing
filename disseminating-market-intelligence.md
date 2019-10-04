@@ -28,6 +28,8 @@ group. Why these principles and not others that are in the reading?
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 
 ## Assignments Made {-}
 
@@ -35,5 +37,6 @@ group. Why these principles and not others that are in the reading?
 "date"]]`
 
 [dalio-2017]: https://www.principles.com/
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [free for iPhone users]: https://principles.app.link/web_main_PIAappstore
 [this wiki survey]: https://www.allourideas.org/principles-disseminate-survey

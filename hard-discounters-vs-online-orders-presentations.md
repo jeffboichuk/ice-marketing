@@ -6,7 +6,7 @@
 
 ## Objective {-}
 
-- To debate whether retail disruptors (e.g., Aldi, Lidl) or online orders (e.g.,
+- To debate whether hard discounters (e.g., Aldi, Lidl) or online orders (e.g.,
 via Instacart, Prime Now, Walmart.com) represent a more significant threat to
 legacy grocers (e.g., Kroger, HEB) in the United States over the next ten years
 
@@ -30,13 +30,15 @@ from one another?
 3. Based on today's readings, build an argument for or against the following
 statement:
 
-> Compared to online orders (e.g., Instacart, Prime Now, Walmart.com), retail
-disruptors (e.g., Aldi, Lidl) represent a more significant threat to legacy
+> Compared to online orders (e.g., Instacart, Prime Now, Walmart.com), hard
+discounters (e.g., Aldi, Lidl) represent a more significant threat to legacy
 grocers (e.g., Kroger, HEB) in the United States over the next ten years.
 
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - Hard Discounters vs. Online Orders Presentation (for presenting groups only)
 
 ## Assignments Made {-}

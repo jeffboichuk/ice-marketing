@@ -36,6 +36,8 @@ target market more effectively.
 
 - [JUST Case Reflection][just-case-reflection]
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - J.C. Penney Case Report (for bonus participation credit only)
 - Formula Complete Fitness Presentation (for presenting groups only)
 
@@ -49,6 +51,7 @@ target market more effectively.
 - A group discussion of your analysis of the Hubspot case before Marketing on 
 `r class_session[[8, "date"]]`
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [Formula Complete Fitness]: https://www.formulacompletefitness.com/
 [group exercise classes]: https://www.formulacompletefitness.com/our-classes
 [just-case-reflection]: https://forms.gle/8JcDNRsskrgyW76c9

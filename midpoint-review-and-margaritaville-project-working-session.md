@@ -62,9 +62,12 @@ IIP 3 Client Report.
 ## Assignments Due {-}
 
 - A response to today's discussion question
+    - After signing into Blackboard, submit your response to [this
+    folder][discussion-questions-submission]
 
 ## Assignments Made {-}
 
 - None
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-137365-dt-content-rid-866173_1/xid-866173_1

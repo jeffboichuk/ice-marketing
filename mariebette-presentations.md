@@ -30,6 +30,8 @@ reflect on what you learned by free writing for 15 minutes.
 
 - [Starbucks Case Reflection][starbucks-case-reflection]
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - MarieBette Presentation (for presenting groups only)
 
 ## Assignments Made {-}
@@ -38,6 +40,7 @@ reflect on what you learned by free writing for 15 minutes.
 "date"]]`
 
 [2019-mariebette-black-history-month-instagram-campaign]: https://docs.google.com/spreadsheets/d/1jsbTcfcRbFPp29R24I6liGOpyjh3HIaL1ThnPV7bvyw/edit?usp=sharing 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [MarieBette]: http://www.mariebette.com/
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
 [The Jefferson School African American Heritage Center]: https://jeffschoolheritagecenter.org/ 

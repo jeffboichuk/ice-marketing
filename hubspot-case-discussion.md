@@ -33,6 +33,8 @@ Build an argument for your decision.
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - A group discussion of your analysis of the Hubspot case before today's class
 - JUST Case Report (for bonus participation credit only)
 - Midpoint Course Evaluation (due tonight at 7:00 pm)
@@ -48,6 +50,7 @@ Build an argument for your decision.
 - Hubspot Case Report (for bonus participation credit only; due 
 `r class_session[[12, "date"]]`)
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [harvard-coursepack]: https://hbsp.harvard.edu/import/651114
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
 [Midpoint Course Evaluation Survey]: https://forms.gle/iMzbSVjojpspBwBL6

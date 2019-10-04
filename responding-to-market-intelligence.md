@@ -24,6 +24,8 @@ list of pros and cons?
 ## Assignments Due {-}
 
 - A response to today's discussion question
+    - After signing into Blackboard, submit your response to [this
+    folder][discussion-questions-submission]
 
 ## Assignments Made {-}
 
@@ -41,4 +43,5 @@ discussion, you might find it helpful to consider the following guidelines that
     is neither necessary, nor expected)
     - Set a time limit, say 30 minutes, for your discussion and stick to it
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [factiva]: http://proxy.its.virginia.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnMDItMDIoMDAp5DByMU38ODJ9RcyqUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA

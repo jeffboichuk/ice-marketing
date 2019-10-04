@@ -57,6 +57,8 @@ on.
 
 - [J.C. Penney Reflection][jc-penney-case-reflection]
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - A group discussion of your analysis of the JUST case before today's class
 
 ## Assignments Made {-}
@@ -68,6 +70,7 @@ on.
 - JUST Case Report (for bonus participation credit only; due 
 `r class_session[[8, "date"]]`)
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
 [just-case-reflection]: https://forms.gle/8JcDNRsskrgyW76c9

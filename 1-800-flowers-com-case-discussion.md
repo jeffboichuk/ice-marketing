@@ -29,10 +29,13 @@ potential? Refer to page 3 of @haywood-farmer-2008 for ideas.
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 
 ## Assignments Made {-}
 
 - None 
     - Because you're done! You made it!! Congratulations!!! 🥳 🎉
 
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [final-2018]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/review-for-the-final-exam/2018-ice-blocks-5-6-final-exam-marketing.docx

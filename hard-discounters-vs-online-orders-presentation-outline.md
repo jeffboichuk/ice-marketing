@@ -5,7 +5,7 @@ The two groups that choose to develop 12-minute presentations for Marketing on
 or against the following statement:
 
 > Compared to online orders (e.g., via Instacart, Prime Now, Walmart.com),
-retail disruptors (e.g., Aldi, Lidl) represent a more significant threat to
+hard discounters (e.g., Aldi, Lidl) represent a more significant threat to
 legacy grocers (e.g., Kroger, HEB) in the United States over the next ten years.
 
 [Bruce Montgomery][] will join us in class for these presentations. Both groups

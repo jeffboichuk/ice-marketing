@@ -12,7 +12,7 @@ actionable, interesting, novel, and broad insights for The Juice Laundry
 
 ## Readings {-}
 
-- Midterm Project Outline  
+- [Midterm Project Outline][]  
 
 ## Discussion Questions {-}
 
@@ -20,10 +20,14 @@ actionable, interesting, novel, and broad insights for The Juice Laundry
 
 ## Assignments Due {-}
 
-- Midterm Report
-- Midterm Presentation
+- [Midterm Report][]
+- [Midterm Presentation][]
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for Marketing on `r class_session[[11,
 "date"]]`
+
+[Midterm Presentation]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html#the-midterm-presentation
+[Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
+[Midterm Report]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html#the-midterm-report

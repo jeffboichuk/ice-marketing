@@ -19,8 +19,10 @@ as your career momentum out of the gate
 
 - [Market Orientation: The Construct, Research Propositions, and Managerial
 Implications][kohli-jaworski-1990] [@kohli-jaworski-1990]  
-- [Eager Sellers and Stony Buyers][gourville-2006] [@gourville-2006]  
-- Midterm Project Outline
+- Eager Sellers and Stony Buyers [@gourville-2006]  
+    - You can access this article by searching for it within the [Harvard
+    Business Review][]
+- [Midterm Project Outline][]
 
 ## Discussion Questions {-}
 
@@ -35,8 +37,9 @@ performance?
 
 ## Assignments Due {-}
 
-- Answers to today's discussion questions via [this
-link][submission-link-discussion-questions]
+- Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
 - Print the readings for each class session of Marketing and organize them in a
 binder
 
@@ -45,13 +48,15 @@ binder
 - Answers to the discussion questions for Marketing on `r class_session[[2,
 "date"]]`
 - [Midterm Presentation Agenda][]
-    - Input your first name, last name, and computing ID to secure a
-    three-minute time slot for your presentation
+    - Add your first name, last name, and computing ID to to the agenda in order
+    to secure a three-minute time slot for your presentation
     - Leave your presentation title blank for now
-- [Group Presentation Selection Survey][]
-    - As a group, rank the choices available to you for group presentations
-    - The sign-up sheet will become available tonight at 6:00 pm 
-    - Each presentation can be selected by two groups
+- [Group Presentation Preferences Form][]
+    - Review the group presentation outlines and rank the choices available to
+    you as a group
+    - Submit your preferences no later than tomorrow at 5:00 pm
+    - I will use the preferences you submit to allocate groups to presentations
+    and use a random number generator to break ties if necessary
 
 Deliverable | Due Date | Assignment<br>Type | Percentage of<br>COMM 3020
 ------------------------- | --------------------- | :----------: | :--------------:
@@ -66,9 +71,10 @@ Hard Discounters vs. Online Orders Presentation | `r class_session[[11, "date"]]
 MarieBette Presentation                         | `r class_session[[13, "date"]]` | Group      | 5%
 JUST (B) Presentation                           | `r class_session[[15, "date"]]` | Group      | 5%
 
-[gourville-2006]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=20773214&site=ehost-live&scope=site
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
+[Group Presentation Preferences Form]: https://forms.gle/JV3HjLFoDbSdJ56a7
+[Harvard Business Review]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite
 [haywood-farmer-2008]: https://www.iveycases.com/media/16122/intro-note-to-case-method.pdf
 [kohli-jaworski-1990]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=9602205182&site=ehost-live&scope=site
-[midterm presentation sign-up sheet]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing
-[submission-link-discussion-questions]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_140538_1&course_id=_2942_1
+[Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
 [Midterm Presentation Agenda]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing

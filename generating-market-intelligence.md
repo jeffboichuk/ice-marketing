@@ -14,8 +14,9 @@ critical thinking skills
 
 ## Readings {-}
 
-- [Rediscovering Market Segmentation][yankelovich-meer-2006]
-[@yankelovich-meer-2006]
+- Rediscovering Market Segmentation [@yankelovich-meer-2006]
+    - You can access this article by searching for it within the [Harvard
+    Business Review][]
 - [Opinionated Analysis Development][parker-2017] [@parker-2017]
 - [Case Report Rubric][]  
 
@@ -37,8 +38,12 @@ spectrum* tool advanced by @yankelovich-meer-2006 for your answer.
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
-- Midterm Presentation Sign-up Sheet
-- Group Presentation Sign-up Sheet
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
+- [Midterm Presentation Agenda][]
+    - Add your first name, last name, and computing ID to to the agenda in order
+    to secure a three-minute time slot for your presentation
+    - Leave your presentation title blank for now
 
 ## Assignments Made {-}
 
@@ -46,7 +51,7 @@ spectrum* tool advanced by @yankelovich-meer-2006 for your answer.
 "date"]]` 
 
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
-[greg driscoll]: https://virginiasports.com/staff.aspx?staff=435
-[midterm presentation sign-up sheet]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
+[Harvard Business Review]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite
+[Midterm Presentation Agenda]: https://docs.google.com/spreadsheets/d/1tHpsFOYOo0Ekn4oiSvktXoIWJCkglN4He41cbX-N4NA/edit?usp=sharing
 [parker-2017]: https://peerj.com/preprints/3210/
-[yankelovich-meer-2006]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite
