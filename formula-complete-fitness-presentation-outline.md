@@ -10,15 +10,15 @@ Complete Fitness][] reach the male UVA student population more effectively to
 Formula is a treadmill studio that offers [group exercise classes][] to the
 Charlottesville community from its location on the corner of Preston Avenue and
 10th Street NW. At least four fifths of its clients are female, and Formula is
-interested in increasing the number of male UVA students that make use of its
-classes during the school year. Ann and her husband Jason (co-owner of Formula)
-keep finding themselves pondering the following question:
+interested in increasing the revenue it generates from male UVA students during
+the school year. Ann and her husband Jason (co-owner of Formula) keep finding
+themselves pondering the following question:
 
 > Is there an identifiable, substantial, and accessible segment
-[@wedel-kamakura-2012] of the male UVA student population that Ann and Jason
-could engage if only this segment came to know about the classes Formula offers,
-or does Formula need to offer a new type of class or launch some kind of new
-initiative to get male UVA students into the studio?
+[@wedel-kamakura-2012, pp. 4-5] of the male UVA student population that Ann and
+Jason could engage if only this segment came to know about the classes Formula
+offers, or does Formula need to offer a new type of class or launch some kind of
+new initiative to get male UVA students into the studio on a recurring basis?
 
 In an effort to help Formula increase its reach, sift through the UVA student
 population for males who are likely to be susceptible to the group fitness
@@ -36,7 +36,7 @@ market more effectively.
 Both groups should prepare as they would if they were working on a consulting
 project for Formula in "the real world," with the goal of persuading Ann to
 implement their plans. Ask for the highest realistic level of commitment
-you can (e.g., agreement that Formula should implement your plan), and
+you can (e.g., agreement that Formula should implement your plan) and
 try your best to receive her approval during the up to eight minutes of Q&A that
 will follow your presentation.
 

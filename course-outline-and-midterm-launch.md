@@ -62,15 +62,15 @@ binder
 
 Deliverable | Due Date | Assignment<br>Type | Percentage of<br>COMM 3020
 ------------------------- | --------------------- | :----------: | :--------------:
+Formula Complete Fitness Presentation           | `r class_session[[7, "date"]]`  | Group      | 5%
 J.C. Penney Case Report                         | `r class_session[[7, "date"]]`  | Individual | 1 bonus point
 JUST (A) Case Report                            | `r class_session[[8, "date"]]`  | Individual | 1 bonus point
 Midterm Report                                  | `r class_session[[10, "date"]]` | Individual | 10%
 Midterm Presentation                            | `r class_session[[10, "date"]]` | Individual | 5%
-Hubspot Case Report                             | `r class_session[[12, "date"]]` | Individual | 1 bonus point
-Starbucks Case Report                           | `r class_session[[14, "date"]]` | Individual | 1 bonus point
-Formula Complete Fitness Presentation           | `r class_session[[7, "date"]]`  | Group      | 5%
 Hard Discounters vs. Online Orders Presentation | `r class_session[[11, "date"]]` | Group      | 5%
+Hubspot Case Report                             | `r class_session[[12, "date"]]` | Individual | 1 bonus point
 MarieBette Presentation                         | `r class_session[[13, "date"]]` | Group      | 5%
+Starbucks Case Report                           | `r class_session[[14, "date"]]` | Individual | 1 bonus point
 JUST (B) Presentation                           | `r class_session[[15, "date"]]` | Group      | 5%
 
 [discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1

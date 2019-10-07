@@ -1,8 +1,10 @@
 # JUST {-}
 
-The two groups that choose to develop 12-minute presentations for our class
-session on `r class_session[[15, "date"]]` will be responsible for presenting
-action plans that offer seemless and concrete answers to the following question:
+Building on our discussion of the JUST (A) case [@yemen-boichuk-cian-2018-b] on
+`r class_session[[6, "date"]]`, the two groups that choose to develop 12-minute
+presentations for our class session on `r class_session[[15, "date"]]` will be
+responsible for presenting action plans that offer seemless and concrete answers
+to the following question:
 
 > How should JUST bring the chicken nuggets described in
 @yemen-boichuk-cian-2018-b to market?
@@ -12,17 +14,19 @@ these presentations. Both groups should prepare as they would if they were
 working on a consulting project for Tetrick in "the real world," with the goal
 of persuading him to pursue their action plans. Ask for the highest realistic
 level of commitment you can (e.g., agreement on the most important decisions you
-land on), and try your best to receive his approval during the up to eight
+land on) and try your best to receive his approval during the up to eight
 minutes of Q&A that will follow your presentation.
 
-The questions posed in the following paragraphs should help you begin to develop
-a seemless and concrete recommendation for bringing the chicken nuggets
-described in @yemen-boichuk-cian-2018-b to market. The questions all stem from
-advice given in @quelch-1983, which has stood the test of time and (more than 35
-years later) can still help food and beverage companies develop action plans for
-new products more productively. Thus, reading @quelch-1983 and other related
-sources&mdash;such as those you can access in the [archives of
-HBR][HBR]&mdash;should help you develop your presentation.
+The questions posed in the following paragraphs should help you develop a
+seemless and concrete recommendation for bringing the chicken nuggets described
+in @yemen-boichuk-cian-2018-b to market. You are neither expected to answer all
+of them, nor are you limited to them (much more has been written on the topic of
+making trade promotion more productive in the [archives of HBR][HBR]). But the
+questions stem from advice given in @quelch-1983 that has stood the test of time
+and (more than 35 years later) this advice continues to help food and beverage
+companies develop action plans for new products. Thus, addressing many of them,
+reading @quelch-1983, and referencing additional sources should help you develop
+an exemplary presentation.
     
 - **Product**: Taking market factors into account, define a realistic set of
 specifications and/or thresholds for nutritional and sensory attributes that
