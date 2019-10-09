@@ -13,8 +13,8 @@ its 2020 Black History Month Instagram Campaign
 ## Readings {-}
 
 - MarieBette's 2019 Black History Month Instagram Campaign
-   - Available at <https://www.instagram.com/mariebettecafe> and documented
-   [here][2019-mariebette-black-history-month-instagram-campaign]
+    - Available at <https://www.instagram.com/mariebettecafe> and documented
+    [here][2019-mariebette-black-history-month-instagram-campaign]
 
 ## Discussion Questions {-}
 
