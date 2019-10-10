@@ -48,8 +48,8 @@ binder
 - Answers to the discussion questions for Marketing on `r class_session[[2,
 "date"]]`
 - [Midterm Presentation Agenda][]
-    - Add your first name, last name, and computing ID to to the agenda in order
-    to secure a three-minute time slot for your presentation
+    - Add your first name, last name, and computing ID to the agenda in order to
+    secure a three-minute time slot for your presentation
     - Leave your presentation title blank for now
 - [Group Presentation Preferences Form][]
     - As a group, review the group presentation outlines and rank the choices
