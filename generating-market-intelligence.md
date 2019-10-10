@@ -41,8 +41,8 @@ spectrum* tool advanced by @yankelovich-meer-2006 for your answer.
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission]
 - [Midterm Presentation Agenda][]
-    - Add your first name, last name, and computing ID to to the agenda in order
-    to secure a three-minute time slot for your presentation
+    - Add your first name, last name, and computing ID to the agenda in order to
+    secure a three-minute time slot for your presentation
     - Leave your presentation title blank for now
 
 ## Assignments Made {-}
