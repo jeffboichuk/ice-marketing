@@ -109,20 +109,21 @@ rigor to your analysis and the insights you generate.
 Sort the alternatives you identify into buckets of the challenges they address.
 Then, use Colquitt and George's [-@colquitt-george-2011] prioritization
 framework to select three buckets (i.e., topics) that you believe are most worth
-looking into and highlight these topics in a topic choice decision matrix (see . From here, you will arrive at
-the topic you believe is most worth doing further research and reporting on for
-your midterm project.
+looking into and highlight these topics in a topic choice decision matrix (see
+page 3 of the [midterm report template][]). From here, you will arrive at the
+topic you believe is most worth doing further research and reporting on for your
+midterm project.
 
-* __Pro tip__: Explain your topics clearly, so that Mike and Sarah will be able
+* __Pro tip__: Explain your topics clearly so that Mike and Sarah will be able
 to fully appreciate: (a) the challenges your topics are focused on overcoming
 and (b) the alternatives your research has led you to consider.
 
 #### Alternative Evaluation {-}
 Focused on the topic you identify, your next objective is to, in a concise and
 well-balanced manner, explain the three fundamentally different directions that
-TJL could go in (one of which can be the status quo at TJL). Further, you should
-arrive at and implement a set of criteria that you believe Mike and Sarah should
-use to make decisions of this sort.
+you believe TJL should consider going in (one of which can be the status quo at
+TJL). Further, you should arrive at and implement a set of criteria that you
+believe Mike and Sarah should use to make decisions of this sort.
 
 With alternatives and criteria in hand, you will be able to complete a [value
 model][johnson 2018] for decision-making purposes [@johnson-2018]. You might
