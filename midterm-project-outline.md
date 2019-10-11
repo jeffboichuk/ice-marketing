@@ -87,16 +87,17 @@ offer actionable insights, and peak their curiosity. With these priorities in
 mind, you should be well positioned to engage in the marketing process and help
 TJL further achieve a market orientation.
 
-As you develop a list of potential topics to focus on, try to be
+As you develop a list of potential topics to focus on, try your best to be
 [divergent][peng 2018] in your thinking [@peng-2018]. Begin by conducting
-extensive research on [Elevate][], [Euromonitor][], [Factiva][], [Google
-Trends][], [Instagram][], [Mergent Intellect][], [Yelp][], and other platforms.
-This research, which can also occur in TJL's and its competitors' storefronts,
-will guide you to challenges that TJL is facing [e.g., some consumers think TJL
-offers low [value][zeithaml 1988]; @zeithaml-1988] as well as promising
-alternatives that TJL could consider implementing to address these challenges
-(e.g., launching an Instagram campaign focused on educating their followers
-about the true cost of food).
+extensive research on [Business Source Complete][], [Elevate][],
+[Euromonitor][], [Factiva][], [Google Trends][], [IBISWorld][], [Instagram][],
+[Mergent Intellect][], [Yelp][], and other platforms. This research, which can
+also occur in TJL's and its competitors' storefronts, will guide you to
+challenges that TJL is facing [e.g., some consumers think TJL offers low
+[value][zeithaml 1988]; @zeithaml-1988] as well as promising alternatives that
+Mike and Sarah could consider implementing to address these challenges (e.g.,
+launching an Instagram campaign focused on educating their followers about the
+true cost of food).
 
 * __Pro tip__: Be [radically open minded][gallo 2017]&mdash;and [productively
 stupid][schwartz 2008] [@schwartz-2008]&mdash;as you search for challenges and
@@ -275,6 +276,7 @@ the following naming convention for the file you submit: “b#-last-first.ppt”
 [a lab of sorts]: https://news.virginia.edu/content/seeking-real-world-case-study-one-commerce-professor-turned-corner
 [allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
 [at the AFC]: https://www.thejuicelaundry.com/about/locations/the-afc
+[business source complete]: http://proxy.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=bth
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
 [colquitt and george 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
 [compostable]: https://www.instagram.com/p/B2TwAjcFoPx/
@@ -290,6 +292,7 @@ the following naming convention for the file you submit: “b#-last-first.ppt”
 [Grolemund and Wickham 2017, 3.3]: http://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings
 [r4ds 12]: https://r4ds.had.co.nz/tidy-data.html
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
+[IBISWorld]: http://proxy.its.virginia.edu/login?url=http://www.ibisworld.com/
 [instagram]: https://www.instagram.com/
 [Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-137365-dt-content-rid-866173_1/xid-866173_1
 [johnson 2018]: https://nyti.ms/2C558Py
