@@ -8,10 +8,10 @@
 The primary goal of this midterm project is to give you an opportunity to apply
 the skills you are learning in Marketing to a real-life situation, such that you
 end up turning consumer/customer data that you collect and that you will be
-given into [significant, actionable, interesting, novel, and broad
-insights][Colquitt and George 2011] for [The Juice Laundry][tjl] (TJL), a local
-Charlottesville business that is partnering with us for the purposes of this
-midterm project.
+given (see [here][given datasets]) into [significant, actionable, interesting,
+novel, and broad insights][Colquitt and George 2011] for [The Juice
+Laundry][tjl] (TJL), a local Charlottesville business that is partnering with us
+for the purposes of this midterm project.
 
 The more you engage in the marketing process that this project will require of
 you, the better you will become at generating, disseminating, and responding to
@@ -287,6 +287,7 @@ the following naming convention for the file you submit: “b#-last-first.ppt”
 [euromonitor]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [factiva]: http://proxy.its.virginia.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnMDItMDIoMDAp5DByMU38ODJ9RcyqUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
 [gallo 2017]: https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
+[given datasets]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_140719_1&course_id=_2942_1
 [Google Trends]: https://trends.google.com/trends/
 [Grolemund and Wickham 2017]: http://r4ds.had.co.nz
 [Grolemund and Wickham 2017, 3.3]: http://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings

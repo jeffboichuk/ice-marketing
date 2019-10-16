@@ -16,6 +16,7 @@ legacy grocers (e.g., Kroger, HEB) in the United States over the next ten years
 Model][steenkamp-sloot-2018] [@steenkamp-sloot-2018]
 - [How a Cheap, Brutally Efficient Grocery Chain is Upending America's
 Supermarkets][meyersohn-2019] [@meyersohn-2019]
+- [Kantar Study Says Shopping At Aldi Is Simpler, Faster, More Cost-Effective][sacra-2019] [@sacra-2019]
 - [Walmart Tops US Online Grocery Market, with 62% More Customers Than Next
 Nearest Rival][perez-2019] [@perez-2019]
 - [Kroger Brings in Robots to Take on Amazon][halzack-2019] [@halzack-2019]
@@ -50,6 +51,7 @@ grocers (e.g., Kroger, HEB) in the United States over the next ten years.
 
 [Bruce Montgomery]: https://www.linkedin.com/in/brucemontgomery/
 [meyersohn-2019]: https://www.cnn.com/interactive/2019/05/business/aldi-walmart-low-food-prices/
-[steenkamp-sloot-2018]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-136761-dt-content-rid-864214_1/xid-864214_1
 [perez-2019]: https://techcrunch.com/2019/08/13/walmart-tops-u-s-online-grocery-market-with-62-more-customers-than-next-nearest-rival/
 [halzack-2019]: https://www.seattletimes.com/business/kroger-brings-in-robots-to-take-on-amazon/
+[steenkamp-sloot-2018]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-136761-dt-content-rid-864214_1/xid-864214_1
+[sacra-2019]: https://www.theshelbyreport.com/2019/10/14/aldi-shopping-study-kantar/
