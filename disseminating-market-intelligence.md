@@ -12,8 +12,11 @@ intelligence they generate through the dissemination process
 
 ## Readings {-}
 
-- [Principles][dalio-2017] [@dalio-2017, pp. 318-369]
-    - [Principles][] is [free for iPhone users][]
+- [To Get the Culture Right...][] [@dalio-2017, pp. 318-369]
+    - This reading is available on Blackboard (see [here][To Get the Culture
+    Right...])
+    - For iPhone users, the entirety of [Principles][] is available for free
+    (see [here][free for iPhone users])
 
 ## Discussion Questions {-}
 
@@ -36,7 +39,7 @@ group. Why these principles and not others that are in the reading?
 - A response to the discussion question for Marketing on `r class_session[[4,
 "date"]]`
 
-[dalio-2017]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-140987-dt-content-rid-929180_1/xid-929180_1
+[To Get the Culture Right...]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-140987-dt-content-rid-929180_1/xid-929180_1
 [discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
 [free for iPhone users]: https://principles.app.link/web_main_PIAappstore
 [principles]: https://www.principles.com/
