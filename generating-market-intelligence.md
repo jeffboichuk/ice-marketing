@@ -23,7 +23,7 @@ critical thinking skills
 ## Discussion Questions {-}
 
 1. How have you personally gone about searching for people in their 30s and 40s
-(i.e., born between 1960 and 1989) that are likely to be susceptible to the
+(i.e., born between 1970 and 1989) that are likely to be susceptible to the
 Margaritaville brand or underserved / dissatisfied in some way that
 Margaritaville could address profitably with a new initiative?
 2. Where has your search and those of your group members led your group? In
