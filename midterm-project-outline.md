@@ -264,7 +264,7 @@ easy-to-understand way][Allen 2017]" [@allen-2017].
 scientific rigor with canny attention-grabbing][Allen 2017]" [@allen-2017].
 * The presenter's slides were [self-explanatory][Grolemund and Wickham 2017,
 28.1], well referenced, and free of errors.
-* The presenter responded to questions and reservations appropriately [see
+* The presenter responded to questions and reservations [appropriately][] [see
 @jolles-2019].
 
 #### Submission {-}
@@ -275,6 +275,7 @@ the following naming convention for the file you submit: “b#-last-first.ppt”
 
 [a lab of sorts]: https://news.virginia.edu/content/seeking-real-world-case-study-one-commerce-professor-turned-corner
 [allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
+[appropriately]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
 [at the AFC]: https://www.thejuicelaundry.com/about/locations/the-afc
 [business source complete]: http://proxy.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=bth
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
