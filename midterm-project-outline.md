@@ -122,9 +122,10 @@ and (b) the alternatives your research has led you to consider.
 #### Alternative Evaluation {-}
 Focused on the topic you identify, your next objective is to, in a concise and
 well-balanced manner, explain the three fundamentally different directions that
-you believe TJL should consider going in (one of which can be the status quo at
-TJL). Further, you should arrive at and implement a set of criteria that you
-believe Mike and Sarah should use to make decisions of this sort.
+you believe TJL should consider going in (one of which can be related to
+improving the status quo at TJL). Further, you should arrive at and implement a
+set of criteria that you believe Mike and Sarah should use to make decisions of
+this sort.
 
 With alternatives and criteria in hand, you will be able to complete a [value
 model][johnson 2018] for decision-making purposes [@johnson-2018]. You might
