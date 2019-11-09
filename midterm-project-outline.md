@@ -226,7 +226,7 @@ Sarah to agree to at least hear more about the action plan you think they should
 pursue during a (not necessarily hypothentical) follow-up meeting. Ask for the
 highest realistic level of commitment you can (e.g., a follow-up meeting or a
 commitment to consider/pursue your recommendation), and do your best to receive
-Mike and Sarah's approval. Up to a minute of Q&A will follow your presentation.
+Mike's approval. Up to a minute of Q&A will follow your presentation.
 
 #### Structure {-}
 Your presentation should contain the following slides: (1) title slide, (2) main
@@ -251,9 +251,9 @@ Use PowerPoint or Keynote for your presentation. Dress business casual. Honor
 your peers, and their work, with your full attention during their presentations.
 
 #### Assessment {-}
-After listening to your presentation, Mike, Sarah, your peers, and I will use
-the following guidelines to assess it and give you developmental feedback. I
-will convert my assessment to a score out 100 that will contribute up to five
+After listening to your presentation, Mike, your peers, and I will use the
+following guidelines to assess it and give you developmental feedback. I will
+convert my assessment to a score out of 100 that will contribute up to five
 percent of your grade for COMM 3020. Internalizing these guidelines is the first
 step to delivering a presentation that will be worthy of an exemplary grade.
 
