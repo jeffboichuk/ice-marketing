@@ -271,8 +271,9 @@ scientific rigor with canny attention-grabbing][Allen 2017]" [@allen-2017].
 #### Submission {-}
 Submit your slide deck for your presentation to Blackboard [here][presentation
 submission link] no later than `r class_session[[10, "date"]]` at 9:00 am. Use
-the following naming convention for the file you submit: “b#-last-first.ppt”
-(e.g., “b5-azami-sean.ppt”).
+the following naming convention for the file you submit: “b#-p##-last-first.ppt”
+(e.g., “b5-p01-estacio-victoria.ppt”), with p## indicating your position in the
+presentation order for your block.
 
 [a lab of sorts]: https://news.virginia.edu/content/seeking-real-world-case-study-one-commerce-professor-turned-corner
 [allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
