@@ -1,13 +1,15 @@
-# `r class_session[[5, "date"]]` {-}
+# `r class_session[[4, "date"]]` {-}
+
+## Classroom {-}
+
+- Orange (required)
 
 ## Topic {-}
 
-- `r class_session[[5, "topic"]]`
+- `r class_session[[4, "topic"]]`
 
 ## Objectives {-}
 
-- To begin developing your ability to argue for and against managerial decisions
-in a persuasive manner through deliberate practice
 - To understand why a change in J.C. Penney's pricing strategy affected its
 revenue and profitability
 - To learn how you can assess the likely effectiveness of a Hi-Lo versus EDLP
@@ -39,33 +41,20 @@ that will enable you to prepare more wisely? Refer to page 3 of
 
 ## Assignments Due {-}
 
-> “I hear and I forget. I see and I remember. I do and I understand.” -
-Confucius
-
-- Answers to today's discussion questions
+- Answers to today's discussion questions  
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]
-- A group discussion of your analysis of the J.C. Penney case before today's
-class. As you prepare for and engage in your group discussion, you might find it
-helpful to consider the following guidelines that @haywood-farmer-2008 suggests
-adhering to:
-    - Develop a thorough understanding of the case prior to your group meeting
-    - Participate actively in the discussion and take your own notes (consensus
-    is neither necessary, nor expected)
-    - Set a time limit, say 30 minutes, for your discussion and stick to it
+    folder][discussion-questions-submission]  
+- Discuss your analysis of the J.C. Penney case before today’s class with your
+group members
 
 ## Assignments Made {-}
 
-- [J.C. Penney Case Reflection][jc-penney-case-reflection] (due 
-`r class_session[[6, "date"]]`)
-- Answers to the discussion questions for Marketing on `r class_session[[6,
-"date"]]`
-- A group discussion of your analysis of the JUST (A) case before Marketing on
-`r class_session[[6, "date"]]`
-- J.C. Penney Case Report (for bonus participation credit only; due 
-`r class_session[[7, "date"]]`)
+- [J.C. Penney Case Reflection][jc-penney-case-reflection]  
+- Answers to the discussion questions for our next session of marketing  
+- Discuss your analysis of the JUST (A) case with your group members before our
+next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
-[harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171347_1
+[harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/747628
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
 [thomke-manzi-2014]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=99619513&site=ehost-live&scope=site

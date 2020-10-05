@@ -1,15 +1,19 @@
-# `r class_session[[12, "date"]]` {-}
+# `r class_session[[6, "date"]]` {-}
+
+## Classroom {-}
+
+- Blue (required)
 
 ## Topic {-}
 
-- `r class_session[[12, "topic"]]`
+- `r class_session[[6, "topic"]]`
 
 ## Objective {-}
 
 - To gain a better understanding of when and how companies should engage in
-brand activism
+brand activism  
 - To strengthen your ability to evaluate alternatives in view of substantive
-decision criteria
+decision criteria  
 
 ## Readings {-}
 
@@ -32,16 +36,15 @@ guiding principles you arrive at cogently.
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission]
-- Hubspot Case Report (for bonus participation credit only)
+- Discuss your analysis of the Starbucks case with your group members before
+today's class
 
 ## Assignments Made {-}
 
-- [Starbucks Case Reflection][starbucks-case-reflection] (due 
-`r class_session[[13, "date"]]`)
-- Starbucks Case Report (for bonus participation credit only; due 
-`r class_session[[14, "date"]]`)
+- [Starbucks Case Reflection][starbucks-case-reflection]  
+- Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171759_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9

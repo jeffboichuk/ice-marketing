@@ -1,21 +1,44 @@
-# JUST {-}
+# `r class_session[[12, "date"]]` {-}
 
-Building on our discussion of the JUST (A) case [@yemen-boichuk-cian-2018-b] on
-`r class_session[[6, "date"]]`, the two groups that choose to develop 12-minute
-presentations for our class session on `r class_session[[15, "date"]]` will be
-responsible for presenting action plans that offer seemless and concrete answers
-to the following question:
+## Classroom {-}
 
-> How should JUST bring the chicken nuggets described in
+- Orange (required)
+
+## Topic {-}
+
+- `r class_session[[12, "topic"]]`
+
+## Objective {-}
+
+- To engage in the process of developing a positioning statement and in-depth
+action plan for a new-to-the-world product
+
+## Readings {-}
+
+- [Just: Positioned to Target Mainstream Tastes? (B)][harvard-coursepack]
+[@yemen-boichuk-cian-2018-b]
+
+## Discussion Questions {-}
+
+1. A positioning statement captures a company’s intention for a product by
+expressing what the company hopes consumers will think of it. Using the
+following sentence structure, write a positioning statement for the chicken
+nuggets described in the case. Further, justify the decisions you made for the
+elements in square brackets.
+
+> For [target market], JUST [product name] will be the [differentiating
+factor(s)] compared to [competitive set] because [supporting evidence].
+
+2. How should JUST bring the chicken nuggets described in 
 @yemen-boichuk-cian-2018-b to market?
 
 JUST Co-Founder and CEO [Josh Tetrick][] will video conference into class for
-these presentations. Both groups should prepare as they would if they were
+this session. Prepare an answer to this question as you would if you were
 working on a consulting project for Tetrick in "the real world," with the goal
-of persuading him to pursue their action plans. Ask for the highest realistic
-level of commitment you can (e.g., agreement on the most important decisions you
-land on) and try your best to receive his approval during the up to eight
-minutes of Q&A that will follow your presentation.
+of persuading him to pursue your action plan. Ask for the highest realistic
+level of commitment you can (e.g., agreement on one or two of the most important
+decisions you land on) and try your best to receive his approval during class
+time.
 
 The questions posed in the following paragraphs should help you develop a
 seemless and concrete recommendation for bringing the chicken nuggets described
@@ -26,7 +49,7 @@ questions stem from advice given in @quelch-1983 that has stood the test of time
 and (more than 35 years later) this advice continues to help food and beverage
 companies develop action plans for new products. Thus, addressing many of them,
 reading @quelch-1983, and referencing additional sources should help you develop
-an exemplary presentation.
+an exemplary elevator pitch for Tetrick.
     
 - **Product**: Taking market factors into account, define a realistic set of
 specifications and/or thresholds for nutritional and sensory attributes that
@@ -65,5 +88,17 @@ gain initial display space for its chicken nuggets? How many facings should JUST
 aim to secure in a given grocery store? What restaurant types should JUST target
 in the food-service sector: fast-food or full-service restaurants?
 
+## Assignments Due {-}
+
+- Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission]
+
+## Assignments Made {-}
+
+- Answers to the discussion questions for our next session of marketing
+
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171764_1
 [HBR]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite
+[harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/747628
 [josh tetrick]: https://www.linkedin.com/in/joshtetrick/

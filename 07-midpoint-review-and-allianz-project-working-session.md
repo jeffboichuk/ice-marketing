@@ -1,13 +1,17 @@
-# `r class_session[[9, "date"]]` {-}
+# `r class_session[[7, "date"]]` {-}
+
+## Classroom {-}
+
+- Orange (required)
 
 ## Topic {-}
 
-- `r class_session[[9, "topic"]]`
+- `r class_session[[7, "topic"]]`
 
 ## Objective {-}
 
-- To work on developing action plans for IIP 3 of the Margaritaville project
-that are seamless and concrete
+- To work on developing action plans for IIP 2 of the Allianz project that are
+seamless and concrete
 
 ## Readings {-}
 
@@ -15,19 +19,19 @@ that are seamless and concrete
 
 ## Discussion Question {-}
 
-How should Margaritaville implement your recommendation, and how did you arrive
-at these implementation choices? IIP 3 asks you to form a well-reasoned answer
-to this question that spans the four elements of the marketing mix.
+How should Allianz implement your recommendation, and how did you arrive at
+these implementation choices? IIP 2 asks you to form a well-reasoned answer to
+this question that spans the four elements of the marketing mix.
 
 Rather than have separate paragraphs or sections for each of the four Ps, the
-action plan you advance in your IIP 3 Client Report should be *seamless*. As is
+action plan you advance in your IIP 2 Client Report should be *seamless*. As is
 true for inter-disciplinary curriculum in business schools, the best action
 plans are integrated. What does this mean practically? You should think of the
 marketing mix as a framework you can use to create a comprehensive action plan.
 However, it would be a mistake to let the framework silo your thinking or the
 structure of your output. Again, you should *not* separate your action plan into
 four paragraphs or sections, one for each element of the marketing mix. Instead,
-describe how M'ville should bring your initiative to market by weaving
+describe how Allianz should bring your initiative to market by weaving
 specifications for elements of the marketing mix into a holistic action plan
 seamlessly.
 
@@ -42,34 +46,33 @@ synergistically. As a result, your action plan will be greater than a sum of the
 four Ps.
 
 The best action plans are also *concrete*. What does this mean practically? You
-should not leave statements like "we think the line of Margaritaville toasters
-that we are proposing should enter the market at a high price" undefined. What
-is a *high* price? In this case, you need to assign dollar values to the
-individual toasters that you think should be launched, using cogent reasoning,
-in order for your action plan to carry weight. No matter the marketing-mix
-variable, try to bring your recommendations to life by pushing your analysis
-beyond the abstract. The action plan you develop should unambiguously describe
-what your initiative would look like in the market and get as close to reality
-as possible.
+should not leave statements like "we think the line of Allianz products that we
+are proposing should enter the market at a high price" undefined. What is a
+*high* price? In this case, you need to assign dollar values to the individual
+products that you think should be launched, using cogent reasoning, in order for
+your action plan to carry weight. No matter the marketing-mix variable, try to
+bring your recommendations to life by pushing your analysis beyond the abstract.
+The action plan you develop should unambiguously describe what your initiative
+would look like in the market and get as close to reality as possible.
 
 Come to class having individually written at least a page of new ideas for your
-group's action plan. Strive to describe how Margaritaville should implement your
+group's action plan. Strive to describe how Allianz should implement your
 recommendation, and how you arrived at these implementation choices, both
 seamlessly and concretely. In class, your group will be given time to share your
 ideas with one another, offer constructive feedback, and make progress on your
-IIP 3 Client Report.
+IIP 2 Client Stand-alone Deck Report.
 
 ## Assignments Due {-}
 
-- [Hubspot Case Reflection][hubspot-case-reflection]
+- [Starbucks Case Reflection][starbucks-case-reflection]  
 - A response to today's discussion question
     - After signing into Blackboard, submit your response to [this
     folder][discussion-questions-submission]
 
 ## Assignments Made {-}
 
-- None
+- Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_2942_1&content_id=_140539_1
-[hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
-[Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-137365-dt-content-rid-866173_1/xid-866173_1
+[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171760_1
+[Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-168065-dt-content-rid-1296347_1/xid-1296347_1
+[starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9

@@ -1,45 +1,43 @@
 library(tidyverse)
 library(lubridate)
+library(glue)
 
 tibble(
    date = mdy(
-      "10-10-2019", # 1
-      "10-16-2019", # 2
-      "10-17-2019", # 3
-      "10-23-2019", # 4
-      "10-24-2019", # 5
-      "10-30-2019", # 6
-      "10-31-2019", # 7
-      "11-06-2019", # 8
-      "11-07-2019", # 9
-      "11-13-2019", # 10
-      "11-14-2019", # 11
-      "11-20-2019", # 12
-      "11-21-2019", # 13
-      "11-26-2019", # 14
-      "12-02-2019", # 15
-      "12-03-2019"  # 16
+      "10-06-2020", # 1
+      "10-08-2020", # 2
+      "10-13-2020", # 3
+      "10-15-2020", # 4
+      "10-20-2020", # 5
+      "10-22-2020", # 6
+      "10-27-2020", # 7
+      "10-29-2020", # 8
+      "11-03-2020", # 9
+      "11-05-2020", # 10
+      "11-10-2020", # 11
+      "11-12-2020", # 12
+      "11-17-2020", # 13
+      "11-19-2020"  # 14
    ),
    topic = c(
       "Course Outline and Midterm Launch",                                  # 1
-      "Generating Market Intelligence",                                     # 2
-      "Disseminating Market Intelligence",                                  # 3
-      "Responding to Market Intelligence",                                  # 4
-      "J.C. Penney Case Discussion",                                        # 5
-      "Just (A) Case Discussion",                                           # 6
-      "Formula Complete Fitness Presentations",                             # 7
-      "Hubspot Case Discussion",                                            # 8
-      "Midpoint Review and Margaritaville Project Working Session",         # 9
-      "Midterm Presentations",                                              # 10
-      "Hard Discounters vs. Online Orders Presentations",                   # 11
-      "Starbucks Case Discussion",                                          # 12
-      "MarieBette Presentations",                                           # 13
-      "Under Armour Case Discussion",                                       # 14
-      "Just (B) Presentations",                                             # 15
-      "1-800-Flowers.com Case Discussion"                                   # 16
+      "Hubspot Case Discussion",                                            # 2
+      "Tesla Case Discussion",                                              # 3
+      "J.C. Penney Case Discussion",                                        # 4
+      "Just (A) Case Discussion",                                           # 5
+      "Starbucks Case Discussion",                                          # 6
+      "Midpoint Review and Allianz Project Working Session",                # 7
+      "Business-to-Business Marketing",                                     # 8
+      "Midterm",                                                            # 9
+      "Integrated Marketing Communications",                                # 10
+      "The Road to Retail (Online and Offline)",                            # 11
+      "Just (B) Case Discussion",                                           # 12
+      "1-800-Flowers.com and Under Armour Case Discussions",                # 13
+      "Review"                                                              # 14
    )
 ) %>% 
    mutate(
+      class_number = row_number() %>% str_pad(width = 2, side = "left", pad = 0),
       date = str_c(
          wday(date, label = TRUE, abbr = FALSE),
          ", ",
@@ -50,6 +48,7 @@ tibble(
       rmd_file = topic %>% 
          str_remove_all("[[:punct:]]") %>% 
          str_to_lower() %>% 
-         str_replace_all(" ", "-")
+         str_replace_all(" ", "-"),
+      rmd_file = glue("{class_number}-{rmd_file}")
    ) ->
    class_session

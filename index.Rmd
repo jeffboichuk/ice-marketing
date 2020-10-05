@@ -12,12 +12,11 @@ documentclass: book
 
 Welcome to the Marketing component of Fall ICE! 
 
-This website includes outlines for the four group presentations you can choose
-from, an outline for your midterm project, and a daily schedule for our class
-sessions.
+This website includes an outline for your midterm project and a daily schedule
+for our class sessions.
 
-During our time together, we will focus and expand on the marketing discipline's
-first law:
+During our time together, we will focus on improving your ability to follow the
+marketing discipline's first law:
 
 > “Don't sell what you happen to make; make what the consumer wants to buy”
 [@fennell-1978, p. 38]. 
@@ -36,11 +35,21 @@ people, and the planet [@elkington-2018].
 
 If asked the question "what is marketing?" during our first class session, you
 might define marketing similar to how you would define advertising. In contrast,
-by the time our last class session hits on `r class_session[[16, "date"]]`, you
+by the time our last class session hits on `r class_session[[14, "date"]]`, you
 should find that your view of marketing has broadened and deepened, no matter
-your starting point. Indeed, marketing is a shared responsibility and everyone
-in an organization needs to perform the role of marketing on a continuous basis,
-whether they "sit" in the marketing department or not. The reason being is that
-learning is at the core of the marketing process, so everything employees do to
-"embrace reality and deal with it" [@dalio-2017, p. 132] falls into the realm of
-marketing.
+your starting point. 
+
+I hope you will find the lessons we cover together to be valuable no matter your
+career interests (e.g., accounting, marketing, finance). Indeed, marketing is a
+shared responsibility and everyone in an organization needs to perform the role
+of marketing on a continuous basis, whether they "sit" in the marketing
+department or not. The reason being is that learning is at the core of the
+marketing process, so everything employees do to "embrace reality and deal with
+it" [@dalio-2017, p. 132] falls into the realm of marketing.
+
+I very much look forward to the time we will spend together. Please feel welcome
+to get in touch with me at any point if you have questions or a desire to talk
+about something we cover in detail.
+
+Sincerely,  
+Prof. Boichuk
