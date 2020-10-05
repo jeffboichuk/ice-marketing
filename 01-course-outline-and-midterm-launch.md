@@ -15,13 +15,14 @@
 - To outline how our subsequent sessions will cover the broad discipline of
 marketing, a discipline that at its core is about processing information and
 making decisions to optimize the triple bottom line  
-  - To define goals, objectives, requirements, and expectations for this course  
-  - To outline how this course's assignments (e.g., exercises, papers, reports)
-  contribute to achieving this course's goals and objectives  
-  - To explain why the instructional methods (e.g., cases, lectures, readings, 
-  projects) were chosen to serve as this course's subject matter  
-  - To establish a learning environment that respects differences and diverse
-  perspectives and makes all students feel welcome  
+    - To define goals, objectives, requirements, and expectations for this
+    course  
+    - To outline how this course's assignments (e.g., exercises, papers,
+    reports) contribute to achieving this course's goals and objectives  
+    - To explain why the instructional methods (e.g., cases, lectures, readings, 
+    projects) were chosen to serve as this course's subject matter  
+    - To establish a learning environment that respects differences and diverse
+    perspectives and makes all students feel welcome  
 - To establish a clear set of goals, requirements, and performance standards 
 (i.e., grading criteria, grading system) for the midterm project  
 
