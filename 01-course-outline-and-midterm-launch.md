@@ -2,6 +2,10 @@
 
 # `r class_session[[1, "date"]]` {-}
 
+## Classroom {-}
+
+- Blue (required)
+
 ## Topic {-}
 
 - `r class_session[[1, "topic"]]`
