@@ -1,4 +1,4 @@
-# `r class_session[[9, "date"]]` {-}
+# `r class_session[[8, "date"]]` {-}
 
 ## Classroom {-}
 
@@ -6,7 +6,7 @@
 
 ## Topic {-}
 
-- `r class_session[[9, "topic"]]`
+- `r class_session[[8, "topic"]]`
 
 ## Objective {-}
 
