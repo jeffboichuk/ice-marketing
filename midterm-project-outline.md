@@ -151,9 +151,9 @@ emotions, and/or actions as well as to TJL's triple bottom line [i.e., profits,
 people, and the planet; @elkington-2018] in [specific, measurable, achievable,
 relevant, and time-bound][Miller 2018] ways [@miller-2017].
 
-### Expectations {-}
+## Expectations {-}
 
-#### Content {-}
+### Content {-}
 This midterm report is your opportunity to show Mike and Sarah Keenan that you
 have thought critically, and in a divergent manner [@peng-2018], about their
 business. What should TJL's top priority be, and why? What makes this topic
@@ -170,7 +170,7 @@ clearly, completely, and credibly [@zhang-shaw-2012]; (iv) a breadth and depth
 of analyses that are applied [accurately and reproducibly][Parker 2017]
 [@parker-2017]; and (v) [stylish writing][Sword 2012] [@sword-2012].
 
-#### Structure {-}
+### Structure {-}
 Your report should contain the following sections: (1) title page, (2) main body
 (see “Content” above), (3) references, (4) exhibits, and, potentially, (5)
 appendices. There is no one "right" way to organize the main body of your
@@ -178,21 +178,21 @@ report; however, you should think carefully about what your audience (i.e., Mike
 and Sarah Keenan) already knows and prioritize discussing original analysis that
 you have conducted over general statements about TJL's business.
 
-#### Length {-}
+### Length {-}
 The main body of your report should not exceed 1,000 words. There is no word
 limit for your exhibits, works cited, and endnotes.
 
-#### Format {-}
+### Format {-}
 Use 1-inch margins and 12-point serif font throughout. The main body of your
 report should use 1.5 spacing. Your works cited, exhibits, and endnotes should
 be single spaced. Refer to the [Interdisciplinary Project Project Description][]
 for additional details about formatting client-ready business documents.
 
-#### Assessment {-}
+### Assessment {-}
 I will use the [Case Report Rubric][] to assess your report, which is worth ten
 percent of COMM 3020, and to give you developmental feedback.
 
-#### Submission {-}
+### Submission {-}
 Your report is due on Tuesday, November 3 at 12:01 am. Submit your report via
 BlackBoard [here][report submission link], and use the following naming
 convention for the file you submit: “b#-last-first.pdf” (e.g.,
