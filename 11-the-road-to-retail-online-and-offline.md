@@ -10,8 +10,8 @@
 
 ## Objective {-}
 
-- To discuss how companies can bring their consumer products and services to
-market most effectively through online and offline channels of distribution
+- To discuss how companies can bring consumer products to market most
+effectively through online and offline channels of distribution
 
 ## Readings {-}
 

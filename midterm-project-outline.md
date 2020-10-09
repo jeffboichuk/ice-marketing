@@ -151,15 +151,11 @@ emotions, and/or actions as well as to TJL's triple bottom line [i.e., profits,
 people, and the planet; @elkington-2018] in [specific, measurable, achievable,
 relevant, and time-bound][Miller 2018] ways [@miller-2017].
 
-## Deliverables {-}
-There are two key deliverables for the midterm project, a two-page report and a
-two-minute presentation.
-
-### The Midterm Report {-}
+### Expectations {-}
 
 #### Content {-}
-The report is your opportunity to show Mike and Sarah Keenan that you have
-thought critically, and in a divergent manner [@peng-2018], about their
+This midterm report is your opportunity to show Mike and Sarah Keenan that you
+have thought critically, and in a divergent manner [@peng-2018], about their
 business. What should TJL's top priority be, and why? What makes this topic
 significant, actionable, and interesting? What alternative approaches should TJL
 be considering in this area, and how should Mike and Sarah be going about
