@@ -28,11 +28,11 @@ purchases settle after the current public health crisis is behind us?
 
 - Answers to today's discussion questions  
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]
+    folder][discussion-questions-submission-11]
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171763_1
+[discussion-questions-submission-11]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171763_1
 [factiva]: http://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA

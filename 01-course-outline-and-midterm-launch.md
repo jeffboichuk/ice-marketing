@@ -43,7 +43,7 @@ market-oriented companies engage in.
 
 - Answers to today's discussion questions  
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]  
+    folder][discussion-questions-submission-01]  
     - By way of submitting your answers you are pledging on your honor that you
     neither gave nor received help while answering the discussion questions. You
     are expected to work alone on all aspects of them and the analysis you
@@ -66,7 +66,7 @@ find it helpful to consider the following guidelines that [Haywood-Farmer]
     is neither necessary, nor expected)
     + Set a time limit, say 30 minutes, for your discussion and stick to it
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171344_1
+[discussion-questions-submission-01]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171344_1
 [haywood-farmer-2008]: https://www.iveycases.com/media/16122/intro-note-to-case-method.pdf
 [kohli-jaworski-1990]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=9602205182&site=ehost-live&scope=site
 [Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html

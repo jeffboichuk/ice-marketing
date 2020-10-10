@@ -92,13 +92,13 @@ in the food-service sector: fast-food or full-service restaurants?
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]
+    folder][discussion-questions-submission-12]
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171764_1
+[discussion-questions-submission-12]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171764_1
 [HBR]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/747628
 [josh tetrick]: https://www.linkedin.com/in/joshtetrick/

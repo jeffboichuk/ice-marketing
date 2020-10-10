@@ -27,10 +27,10 @@ previous years as case studies and analyze their features.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]
+    folder][discussion-questions-submission-10]
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171762_1
+[discussion-questions-submission-10]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171762_1

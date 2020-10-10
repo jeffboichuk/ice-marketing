@@ -35,7 +35,7 @@ guiding principles you arrive at cogently.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]
+    folder][discussion-questions-submission-06]
 - Discuss your analysis of the Starbucks case with your group members before
 today's class
 
@@ -44,7 +44,7 @@ today's class
 - [Starbucks Case Reflection][starbucks-case-reflection]  
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171759_1
+[discussion-questions-submission-06]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171759_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9

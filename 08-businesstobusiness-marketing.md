@@ -30,12 +30,12 @@ How would you go about doing so? Set some goals that adhere to SMART principles.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]
+    folder][discussion-questions-submission-08]
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171761_1
+[discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171761_1
 [jolles-2019]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
 [ye-2020]: https://blog.hubspot.com/sales/ultimate-guide-to-sales-qualification

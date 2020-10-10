@@ -43,7 +43,7 @@ that will enable you to prepare more wisely? Refer to page 3 of
 
 - Answers to today's discussion questions  
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission]  
+    folder][discussion-questions-submission-04]  
 - Discuss your analysis of the J.C. Penney case before today’s class with your
 group members
 
@@ -54,7 +54,7 @@ group members
 - Discuss your analysis of the JUST (A) case with your group members before our
 next session of marketing
 
-[discussion-questions-submission]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171347_1
+[discussion-questions-submission-04]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171347_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/747628
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
 [thomke-manzi-2014]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=99619513&site=ehost-live&scope=site
