@@ -25,7 +25,7 @@ to a real-life situation
 
 ## Assignments Made {-}
 
-- Answers to the discussion questions for our next session of marketing
+- ~~Answers to the discussion questions for our next session of marketing~~
 
 [Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
 [this folder]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163593_1

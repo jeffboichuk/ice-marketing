@@ -25,9 +25,9 @@ previous years as case studies and analyze their features.
 
 ## Assignments Due {-}
 
-- Answers to today's discussion questions
-    - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-10]
+- ~~Answers to today's discussion questions~~
+    - ~~After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission-10]~~
 
 ## Assignments Made {-}
 
