@@ -33,6 +33,7 @@ guiding principles you arrive at cogently.
 
 ## Assignments Due {-}
 
+- [JUST Case Reflection][just-case-reflection]  
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-06]
@@ -48,3 +49,4 @@ today's class
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
+[just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

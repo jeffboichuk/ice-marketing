@@ -77,4 +77,4 @@ today’s class
 [discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171353_1
 [harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/747628
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
-[just-case-reflection]: https://forms.gle/8JcDNRsskrgyW76c9
+[just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7
