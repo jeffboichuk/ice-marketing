@@ -195,9 +195,9 @@ percent of COMM 3020, and to give you developmental feedback.
 ### Submission {-}
 Your report is due on Tuesday, November 3 at 12:01 am. Submit your report via
 BlackBoard [here][report submission link], and use the following naming
-convention for the file you submit: “b#-last-first.pdf” (e.g.,
-“b5-hammond-austin.pdf”). If you collect data or conduct analyses to inform your
-report, you should add this material to your submission via an electronic
+convention for the file you submit: “b#-last-first.docx” (e.g.,
+“b5-hammond-austin.docx”). If you collect data or conduct analyses to inform
+your report, you should add this material to your submission via an electronic
 supplement. Use the same naming convention for this file (e.g.,
 “b#-last-first.xlsx”). Your report and supplements should all make stand-alone
 sense. Deviating from the simple instructions in this paragraph will earn you a
