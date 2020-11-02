@@ -8,7 +8,7 @@
 
 - `r class_session[[10, "topic"]]`
 
-## Objective {-}
+## Objectives {-}
 
 - To develop an understanding of how companies and advertising agencies develop
 and implement integrated marketing campaigns.
