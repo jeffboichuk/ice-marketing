@@ -10,8 +10,8 @@
 
 ## Objective {-}
 
-- To engage in the process of developing a positioning statement and in-depth
-action plan for a new-to-the-world product
+- To engage in the process of developing a positioning statement and an elevator
+pitch for a marketing-mix variable of a new-to-the-world product  
 
 ## Readings {-}
 
@@ -20,46 +20,49 @@ action plan for a new-to-the-world product
 
 ## Discussion Questions {-}
 
-1. A positioning statement captures a company’s intention for a product by
-expressing what the company hopes consumers will think of it. Using the
-following sentence structure, write a positioning statement for the chicken
-nuggets described in the case. Further, justify the decisions you made for the
-elements in square brackets.
+1. Aspirational positioning statements capture companies' intentions for
+products by expressing what companies hope consumers will think of them. Using
+the following sentence structure, write a positioning statement for the chicken
+nuggets described in @yemen-boichuk-cian-2018-b. Further, justify the decisions
+you made for the elements in square brackets.  
 
-> For [target market], JUST [product name] will be the [differentiating
-factor(s)] compared to [competitive set] because [supporting evidence].
+> For [target customers], JUST [product name] will be the [meaningful point(s)
+of difference] choice compared to [relevant competitive set] because [supporting
+facts].
 
-2. How should JUST bring the chicken nuggets described in 
-@yemen-boichuk-cian-2018-b to market?
+2. How should JUST bring the chicken nuggets described in
+@yemen-boichuk-cian-2018-b to market? Choose a single element of the marketing
+mix and create a 60-second elevator pitch for JUST Co-Founder and CEO [Josh
+Tetrick][], who will be video conferencing into class for this session.  
 
-JUST Co-Founder and CEO [Josh Tetrick][] will video conference into class for
-this session. Prepare an answer to this question as you would if you were
-working on a consulting project for Tetrick in "the real world," with the goal
-of persuading him to pursue your action plan. Ask for the highest realistic
-level of commitment you can (e.g., agreement on one or two of the most important
-decisions you land on) and try your best to receive his approval during class
-time.
+Prepare an answer to this question as you would if you were working on a
+consulting project for Tetrick in "the real world," with the goal of persuading
+him to set the marketing mix variable you focus on in the way you recommend
+doing so. Ask for the highest realistic level of commitment you can (e.g.,
+agreement with the decision you land on) and try your best to receive his
+approval during class time.  
 
 The questions posed in the following paragraphs should help you develop a
-seemless and concrete recommendation for bringing the chicken nuggets described
-in @yemen-boichuk-cian-2018-b to market. You are neither expected to answer all
-of them, nor are you limited to them (much more has been written on the topic of
-making trade promotion more productive in the [archives of HBR][HBR]). But the
-questions stem from advice given in @quelch-1983 that has stood the test of time
-and (more than 35 years later) this advice continues to help food and beverage
-companies develop action plans for new products. Thus, addressing many of them,
-reading @quelch-1983, and referencing additional sources should help you develop
-an exemplary elevator pitch for Tetrick.
+seemless and concrete recommendation for one element of bringing the chicken
+nuggets described in @yemen-boichuk-cian-2018-b to market. You are neither
+expected to answer all of them, nor are you limited to them (much more has been
+written on the topic of making trade promotion more productive in the [archives
+of HBR][HBR]). But the questions stem from advice given in @quelch-1983 that has
+stood the test of time and (more than 35 years later) this advice continues to
+help food and beverage companies develop action plans for new products. Thus,
+addressing one or a couple of them, reading @quelch-1983, and referencing
+additional sources should help you develop an exemplary elevator pitch for
+Tetrick.  
     
 - **Product**: Taking market factors into account, define a realistic set of
 specifications and/or thresholds for nutritional and sensory attributes that
 JUST's chicken nuggets need to have. What should JUST name its chicken nuggets?
 What package size(s) and flavors should JUST offer? How many stockkeeping units
 should the full portfolio of chicken nuggets have in it? What principles should
-guide JUST's package-design decisions for its chicken nuggets? Apply these
-principles to determine how JUST should design its packaging. What should the
-packaging look like, and what materials should be used to make it? Are there
-certain labels or claims that JUST should make sure to include on the packaging?
+guide JUST's package-design decisions for its chicken nuggets? Consider applying
+these principles to determine how JUST should design its packaging. What should
+the packaging look like, and what materials should be used to make it? Are there
+certain labels or claims that JUST should make sure to include on the packaging?  
 
 - **Pricing**: Which pricing strategy should JUST adopt for its chicken nuggets:
 everyday low price (EDLP) pricing, high-low pricing, or a hybrid of the two? For
@@ -75,7 +78,7 @@ JUST offer temporary price reductions?
 - **Promotion**: What advertising and social media activity should JUST invest
 in to promote its chicken nuggets? What merchandising support (e.g., features in
 retailers' weekly circulars, in-store displays) should JUST aim to attain from
-retailers? In particular, be sure to set targets for the size, location, and
+retailers? In particular, consider setting targets for the size, location, and
 timing of features and/or in-store displays. What slogan or message should JUST
 use to promote its chicken nuggets?
 
