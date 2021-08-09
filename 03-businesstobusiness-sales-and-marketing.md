@@ -12,14 +12,17 @@ marketing
 
 ## Readings {-}
 
-- TBD 
+- [Brian Martin][], Chief Revenue Officer, [Litmus][] (McIntire '96) will be
+guest lecturing this class session. Research him and Litmus via LinkedIn and the
+Internet in advance of class.
 
 ## Discussion Questions {-}
 
-1. Suppose that Grammarly, which has primarily grown its business as a B2C app,
-is moving into B2B, selling enterprise plans to companies. If Grammarly hired
-you to grow its enterprise business, what would your plan be? How would you
-think about growth?
+1. Suppose that Grammarly, which has primarily grown its business as a
+business-to-consumer (B2C) app, is moving into the business-to-business (B2B)
+sector, selling enterprise plans to companies. If Grammarly hired you to grow
+its enterprise business, what would your plan be? How would you think about
+growth?
 2. Suppose you're in a hiring role for a SaaS company and ready to hire your
 first sales rep. What characteristics would you look for in job candidates? What
 questions would you ask in the interview process?
@@ -34,7 +37,7 @@ job candidates?
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-03]
 
+[brian martin]: https://www.linkedin.com/in/brian-martin-b177861/
 [discussion-questions-submission-03]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191692_1&course_id=_3493_1
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
-[jolles-2019]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
-[ye-2020]: https://blog.hubspot.com/sales/ultimate-guide-to-sales-qualification
+[litmus]: https://www.litmus.com/
