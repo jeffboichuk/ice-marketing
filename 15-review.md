@@ -1,13 +1,10 @@
-# `r class_session[[14, "date"]]` {-}
-
-## Classroom {-}
-
-- Blue (required)
+# `r class_session[[15, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[14, "topic"]]`
+- `r class_session[[15, "topic"]]`
 
 ## Objective {-}
 
-- To recap the semester and discuss possible futures for the discipline of marketing as well as the aggregate marketing system
+- To recap the semester and discuss possible futures for the discipline of 
+marketing as well as the aggregate marketing system

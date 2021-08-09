@@ -1,10 +1,5 @@
 # `r class_session[[9, "date"]]` {-}
 
-## Classroom {-}
-
-- N/A (your only responsibility for today's class session is submitting your
-midterm report)
-
 ## Topic {-}
 
 - `r class_session[[9, "topic"]]`
@@ -21,11 +16,13 @@ to a real-life situation
 ## Assignments Due {-}
 
 - Midterm Report (at 12:01 am)
-  - After signing into Blackboard, submit your Midterm Report to [this folder][]
+  - After signing into Blackboard, submit your Midterm Report to [this folder][]  
+  - Your only responsibility for today's class session is submitting your
+  midterm report, as we will not be meeting in person
 
 ## Assignments Made {-}
 
-- ~~Answers to the discussion questions for our next session of marketing~~
+- Answers to the discussion questions for our next session of marketing
 
 [Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
 [this folder]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163593_1

@@ -1,12 +1,8 @@
-# `r class_session[[7, "date"]]` {-}
-
-## Classroom {-}
-
-- Orange (required)
+# `r class_session[[8, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[7, "topic"]]`
+- `r class_session[[8, "topic"]]`
 
 ## Objective {-}
 
@@ -73,6 +69,6 @@ IIP 2 Client Stand-alone Deck Report.
 
 - ~~Answers to the discussion questions for our next session of marketing~~
 
-[discussion-questions-submission-07]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171760_1
+[discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171760_1
 [Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-168065-dt-content-rid-1296347_1/xid-1296347_1
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9

@@ -1,12 +1,8 @@
-# `r class_session[[5, "date"]]` {-}
-
-## Classroom {-}
-
-- Blue (required)
+# `r class_session[[7, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[5, "topic"]]`
+- `r class_session[[7, "topic"]]`
 
 ## Objective {-}
 
@@ -74,7 +70,7 @@ today’s class
 - JUST Case Report (for bonus participation credit only; due 
 `r class_session[[8, "date"]]`)
 
-[discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171353_1
+[discussion-questions-submission-07]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171353_1
 [harvard-course-pack]: https://hbsp.harvard.edu/import/850099
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

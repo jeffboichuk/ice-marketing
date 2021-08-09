@@ -1,12 +1,8 @@
-# `r class_session[[3, "date"]]` {-}
-
-## Classroom {-}
-
-- Orange (required)
+# `r class_session[[5, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[3, "topic"]]`
+- `r class_session[[5, "topic"]]`
 
 ## Objective {-}
 
@@ -35,7 +31,7 @@ evaluating alternatives; or designing an action plan?
 - [Hubspot Case Reflection][hubspot-case-reflection]  
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-03]  
+    folder][discussion-questions-submission-05]  
 - Discuss your analysis of the Tesla case before today’s class with your group
 members
 
@@ -52,6 +48,6 @@ find it helpful to consider the following guidelines that [Haywood-Farmer
   - Set a time limit, say 30 minutes, for your discussion and stick to it
 
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
-[discussion-questions-submission-03]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163595_1
+[discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163595_1
 [final-2019]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/review-for-the-final-exam/2019-ice-blocks-5-6-final-exam-marketing.docx
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
