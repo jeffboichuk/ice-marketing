@@ -15,7 +15,7 @@ Welcome to the Marketing component of Fall ICE!
 This website includes an outline for your midterm project and a daily schedule
 for our class sessions.
 
-During our time together, we will focus on improving your ability to follow the
+During our time together, we will focus on improving your ability to honor the
 marketing discipline's first law:
 
 > “Don't sell what you happen to make; make what the consumer wants to buy”
@@ -35,13 +35,13 @@ people, and the planet [@elkington-2018].
 
 If asked the question "what is marketing?" during our first class session, you
 might define marketing similar to how you would define advertising. In contrast,
-by the time our last class session hits on `r class_session[[14, "date"]]`, you
+by the time our last class session hits on `r class_session[[15, "date"]]`, you
 should find that your view of marketing has broadened and deepened, no matter
 your starting point. 
 
 I hope you will find the lessons we cover together to be valuable no matter your
-career interests (e.g., accounting, marketing, finance). Indeed, marketing is a
-shared responsibility and everyone in an organization needs to perform the role
+career interests (e.g., accounting, finance, marketing). Indeed, marketing is a
+shared responsibility and everyone in the organization needs to perform the role
 of marketing on a continuous basis, whether they "sit" in the marketing
 department or not. The reason being is that learning is at the core of the
 marketing process, so everything employees do to "embrace reality and deal with

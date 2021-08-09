@@ -4,36 +4,38 @@ library(glue)
 
 tibble(
    date = mdy(
-      "10-06-2020", # 1
-      "10-08-2020", # 2
-      "10-13-2020", # 3
-      "10-15-2020", # 4
-      "10-20-2020", # 5
-      "10-22-2020", # 6
-      "10-27-2020", # 7
-      "10-29-2020", # 8
-      "11-03-2020", # 9
-      "11-05-2020", # 10
-      "11-10-2020", # 11
-      "11-12-2020", # 12
-      "11-17-2020", # 13
-      "11-19-2020"  # 14
+      "10-07-2021", # 1
+      "10-14-2021", # 2
+      "10-19-2021", # 3
+      "10-21-2021", # 4
+      "10-26-2021", # 5
+      "10-28-2021", # 6
+      "11-02-2021", # 7
+      "11-04-2021", # 8
+      "11-09-2021", # 9
+      "11-11-2021", # 10
+      "11-16-2021", # 11
+      "11-18-2021", # 12
+      "11-23-2021", # 13
+      "11-30-2021", # 14
+      "12-02-2021"  # 15
    ),
    topic = c(
       "Course Outline and Midterm Launch",                                  # 1
       "Hubspot Case Discussion",                                            # 2
-      "Tesla Case Discussion",                                              # 3
+      "Business-to-Business Sales and Marketing",                           # 3
       "J.C. Penney Case Discussion",                                        # 4
-      "Just (A) Case Discussion",                                           # 5
+      "Tesla Case Discussion",                                              # 5
       "Starbucks Case Discussion",                                          # 6
-      "Midpoint Review and Allianz Project Working Session",                # 7
-      "Business-to-Business Marketing",                                     # 8
+      "Just (A) Case Discussion",                                           # 7
+      "Midpoint Review and Allianz Project Working Session",                # 8
       "Midterm",                                                            # 9
-      "Integrated Marketing Communications",                                # 10
+      "The Sales Process",                                                  # 10
       "The Road to Retail (Online and Offline)",                            # 11
       "Just (B) Case Discussion",                                           # 12
-      "1-800-Flowers.com and Under Armour Case Discussions",                # 13
-      "Review"                                                              # 14
+      "Integrated Marketing Communications",                                # 13
+      "1-800-Flowers.com and Under Armour Case Discussions",                # 14
+      "Review"                                                              # 15
    )
 ) %>% 
    mutate(

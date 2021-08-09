@@ -46,7 +46,7 @@ today's class
 - Answers to the discussion questions for our next session of marketing
 
 [discussion-questions-submission-06]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171759_1
-[harvard-course-pack]: https://hbsp.harvard.edu/coursepacks/651114
+[harvard-course-pack]: https://hbsp.harvard.edu/import/850099
 [chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7
