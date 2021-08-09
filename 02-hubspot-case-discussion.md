@@ -40,6 +40,8 @@ list of pros and cons?
 
 ## Assignments Due {-}
 
+- Bring a binder to class with readings for each class session of marketing in 
+it  
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-02]
