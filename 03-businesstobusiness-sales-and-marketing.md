@@ -6,21 +6,26 @@
 
 ## Objective {-}
 
-- To examine the infamous saying "Always Be Closing" and discuss how it can be
-modified to accommodate the consumer decision making process  
+- To discuss how you can drive hockey-stick growth at software-as-a-service
+(SaaS) companies and, in so doing, illuminate the black box of SaaS sales and
+marketing
 
 ## Readings {-}
 
-- [The Ultimate Guide to Sales Qualification][ye-2020] [@ye-2020]  
-- [I Object! Four Steps to Handling Objections][jolles-2019] [@jolles-2019]  
+- TBD 
 
 ## Discussion Questions {-}
 
-1. What benefits can organizations that train their salespeople to qualify
-prospects expect to reap? Be sure to provide sound reasoning.  
-2. Suppose you want to become unconsciously competent at the four steps outlined
-in [@jolles-2019] so as to become more adept at handling objections that arise.
-How would you go about doing so? Set some goals that adhere to SMART principles.
+1. Suppose that Grammarly, which has primarily grown its business as a B2C app,
+is moving into B2B, selling enterprise plans to companies. If Grammarly hired
+you to grow its enterprise business, what would your plan be? How would you
+think about growth?
+2. Suppose you're in a hiring role for a SaaS company and ready to hire your
+first sales rep. What characteristics would you look for in job candidates? What
+questions would you ask in the interview process?
+3. Now suppose you're looking to hire a sales leader. What responsibilities will
+be in this person's job description? What characteristics would you look for in
+job candidates?
 
 ## Assignments Due {-}
 
@@ -29,7 +34,7 @@ How would you go about doing so? Set some goals that adhere to SMART principles.
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-03]
 
-[discussion-questions-submission-03]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171761_1
+[discussion-questions-submission-03]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191692_1&course_id=_3493_1
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
 [jolles-2019]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
 [ye-2020]: https://blog.hubspot.com/sales/ultimate-guide-to-sales-qualification

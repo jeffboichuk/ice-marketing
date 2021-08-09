@@ -69,6 +69,6 @@ IIP 2 Client Stand-alone Deck Report.
 
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171760_1
+[discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191697_1&course_id=_3493_1
 [Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-168065-dt-content-rid-1296347_1/xid-1296347_1
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

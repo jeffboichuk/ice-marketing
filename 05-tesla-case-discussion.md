@@ -48,6 +48,6 @@ find it helpful to consider the following guidelines that [Haywood-Farmer
   - Set a time limit, say 30 minutes, for your discussion and stick to it
 
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
-[discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163595_1
+[discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191694_1&course_id=_3493_1
 [final-2019]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/review-for-the-final-exam/2019-ice-blocks-5-6-final-exam-marketing.docx
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26

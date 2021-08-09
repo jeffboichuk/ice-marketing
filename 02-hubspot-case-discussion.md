@@ -53,7 +53,7 @@ today’s class
 - [Hubspot Case Reflection][hubspot-case-reflection]  
 - Answers to the discussion questions for our next session of marketing
 
-[discussion-questions-submission-02]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171344_1
+[discussion-questions-submission-02]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191691_1&course_id=_3493_1
 [factiva]: http://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
 [harvard-coursepack]: https://hbsp.harvard.edu/import/850099
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6

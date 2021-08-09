@@ -38,6 +38,6 @@ potential? Refer to page 3 of @haywood-farmer-2008 for ideas.
 - None 
     - Because you're done! You made it!! Congratulations!!! 🥳 🎉
 
-[discussion-questions-submission-14]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163595_1
+[discussion-questions-submission-14]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191702_1&course_id=_3493_1
 [final-2017]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/review-for-the-final-exam/2017-ice-blocks-5-6-final-exam-marketing.docx
 [final-2018]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/review-for-the-final-exam/2018-ice-blocks-5-6-final-exam-marketing.docx

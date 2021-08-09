@@ -27,6 +27,22 @@ previous years as case studies and analyze their features.
     - UVA Tinder Pitch Book  
     - UVA Tinder Presentation  
 
+## Discussion Questions {-}
+Skim through and watch all three sets of competition materials. Then choose one
+of the three competitions (Snapple, Adobe, or Tinder) and answer the following
+questions in detail.
+
+1. What data and research informed the UVA promo class’ campaign strategy?  
+2. What one or two high-level problems did the UVA promo class identify for the
+client (i.e., Snapple, Adobe, or Tinder)?  
+3. What solutions did the UVA promo class advocate for? In other words, what
+were the overarching themes of the campaign they pitched?  
+4. Which of the UVA promo class' executions  (i.e., mock-ups) did you find to be
+the most compelling? How did they leverage it to bring their campaign to life
+seamlessly, concretely, and effectively?  
+5. How did the UVA promo class assure the judges that their campaign would be
+successful?  
+
 ## Assignments Due {-}
 
 - Answers to today's discussion questions
@@ -37,11 +53,11 @@ previous years as case studies and analyze their features.
 
 - Answers to the discussion questions for our next session of marketing
 
-[Snapple Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-173227-dt-content-rid-1444880_1/xid-1444880_1
-[UVA Snapple Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-173228-dt-content-rid-1445004_1/xid-1445004_1
+[Snapple Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191671-dt-content-rid-1788023_1/xid-1788023_1
+[UVA Snapple Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191676-dt-content-rid-1788026_1/xid-1788026_1
 [UVA Snapple Presentation (Part 1 of 2)]: https://video.comm.virginia.edu/media/Snapple+Presentation+%28Part+1+of+2%29/1_kfge3ygt?st=81
 [UVA Snapple Presentation (Part 2 of 2)]: https://video.comm.virginia.edu/media/UVA+Snapple+Presentation+%28Part+2+of+2%29/1_kj0lz16j
-[Adobe Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-173230-dt-content-rid-1445003_1/xid-1445003_1
-[UVA Adobe Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-173229-dt-content-rid-1445006_1/xid-1445006_1
+[Adobe Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191679-dt-content-rid-1788025_1/xid-1788025_1
+[UVA Adobe Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191680-dt-content-rid-1788027_1/xid-1788027_1
 [UVA Adobe Presentation]: https://video.comm.virginia.edu/media/UVA+Adobe+Presentation/1_yijvdzoz
-[discussion-questions-submission-13]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171762_1
+[discussion-questions-submission-13]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191701_1&course_id=_3493_1
