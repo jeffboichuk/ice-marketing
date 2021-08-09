@@ -1,8 +1,8 @@
-# `r class_session[[10, "date"]]` {-}
+# `r class_session[[13, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[10, "topic"]]`
+- `r class_session[[13, "topic"]]`
 
 ## Objectives {-}
 
@@ -22,12 +22,16 @@ previous years as case studies and analyze their features.
     - [Adobe Client Brief][]  
     - [UVA Adobe Pitch Book][]  
     - [UVA Adobe Presentation][]  
+- 2021 National Student Advertising Competition Materials  
+    - Tinder Client Brief  
+    - UVA Tinder Pitch Book  
+    - UVA Tinder Presentation  
 
 ## Assignments Due {-}
 
-- ~~Answers to today's discussion questions~~
-    - ~~After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-10]~~
+- Answers to today's discussion questions
+    - After signing into Blackboard, submit your answers to [this
+    folder][discussion-questions-submission-13]
 
 ## Assignments Made {-}
 
@@ -40,4 +44,4 @@ previous years as case studies and analyze their features.
 [Adobe Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-173230-dt-content-rid-1445003_1/xid-1445003_1
 [UVA Adobe Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-173229-dt-content-rid-1445006_1/xid-1445006_1
 [UVA Adobe Presentation]: https://video.comm.virginia.edu/media/UVA+Adobe+Presentation/1_yijvdzoz
-[discussion-questions-submission-10]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171762_1
+[discussion-questions-submission-13]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171762_1

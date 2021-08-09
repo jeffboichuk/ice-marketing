@@ -55,7 +55,7 @@ on.
 
 ## Assignments Due {-}
 
-- [J.C. Penney Reflection][jc-penney-case-reflection]
+- [Starbucks Case Reflection][starbucks-case-reflection]  
 - Answers to today's discussion questions  
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-05]  
@@ -72,5 +72,5 @@ today’s class
 
 [discussion-questions-submission-07]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171353_1
 [harvard-course-pack]: https://hbsp.harvard.edu/import/850099
-[jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
+[starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

@@ -60,15 +60,15 @@ IIP 2 Client Stand-alone Deck Report.
 
 ## Assignments Due {-}
 
-- [Starbucks Case Reflection][starbucks-case-reflection]  
+- [JUST Case Reflection][just-case-reflection]  
 - A response to today's discussion question
     - After signing into Blackboard, submit your response to [this
-    folder][discussion-questions-submission-07]
+    folder][discussion-questions-submission-08]
 
 ## Assignments Made {-}
 
-- ~~Answers to the discussion questions for our next session of marketing~~
+- Answers to the discussion questions for our next session of marketing
 
 [discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?course_id=_3248_1&content_id=_171760_1
 [Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-168065-dt-content-rid-1296347_1/xid-1296347_1
-[starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
+[just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

@@ -29,7 +29,6 @@ guiding principles you arrive at cogently.
 
 ## Assignments Due {-}
 
-- [JUST Case Reflection][just-case-reflection]  
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-06]
