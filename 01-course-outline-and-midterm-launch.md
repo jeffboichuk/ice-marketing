@@ -65,5 +65,5 @@ find it helpful to consider the following guidelines that [Haywood-Farmer]
 [discussion-questions-submission-01]:
 https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191690_1&course_id=_3493_1
 [haywood-farmer-2008]: https://www.study.net/sample/pdf/Introductory_Note_on_the_Case_Method.pdf
-[kohli-jaworski-1990]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=9602205182&site=ehost-live&scope=site
+[kohli-jaworski-1990]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195100-dt-content-rid-1802077_1/xid-1802077_1
 [Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html

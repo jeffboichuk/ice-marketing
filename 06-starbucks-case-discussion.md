@@ -42,6 +42,6 @@ today's class
 
 [discussion-questions-submission-06]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191695_1&course_id=_3493_1
 [harvard-course-pack]: https://hbsp.harvard.edu/import/850099
-[chatterji-toffel-2018]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=126916198&site=ehost-live&scope=site
+[chatterji-toffel-2018]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195106-dt-content-rid-1802078_1/xid-1802078_1
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

@@ -53,4 +53,4 @@ next session of marketing
 [discussion-questions-submission-04]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191693_1&course_id=_3493_1
 [harvard-course-pack]: https://hbsp.harvard.edu/import/850099
 [jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
-[thomke-manzi-2014]: http://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=99619513&site=ehost-live&scope=site
+[thomke-manzi-2014]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195097-dt-content-rid-1802074_1/xid-1802074_1
