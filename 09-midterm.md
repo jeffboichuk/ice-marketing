@@ -15,7 +15,7 @@ to a real-life situation
 
 ## Assignments Due {-}
 
-- Midterm Report (at 12:01 am)
+- Midterm Report (at 11:59 pm)
   - After signing into Blackboard, submit your Midterm Report to [this folder][]  
   - Your only responsibility for today's class session is submitting your
   midterm report, as we will not be meeting in person

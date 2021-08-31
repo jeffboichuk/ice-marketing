@@ -23,10 +23,10 @@ prosperity) is arguably why society engages in commerce and, as a result,
 marketing in the first place [@donaldson-walsh-2015].
 
 ### Company Overview {-}
-In brief, TJL is an organic juice and smoothie bar with three locations in
-Charlottesville, VA. Founded by UVA alumni Mike and Sarah Keenan, TJL's mission
-is "to inspire healthy, organic, powerful change." In-store signage articulates
-Mike and Sarah's [value proposition][] to customers as follows:
+TJL is an organic juice and smoothie bar with four locations in Charlottesville,
+VA. Founded by UVA alumni Mike and Sarah Keenan, TJL's mission is "to inspire
+healthy, organic, powerful change." In-store signage articulates Mike and
+Sarah's [value proposition][] to customers as follows:
 
 > The Juice Laundry was founded on the concept of keeping our bodies clean and
 healthy, starting with what we put into them. Raw, organic fruits and veggies
@@ -47,18 +47,18 @@ reusable.
 For this midterm, Mike and Sarah are offering us "[a lab of sorts][]"
 [@newman-2019], somewhere you can talk with them as well as TJL's employees and
 customers; analyze data; and, eventually, see the impact of your hard work right
-in our backyard [at the AFC][] and [on the Corner][].
+in our backyard [at the AFC][], [on the Corner][], and in Newcomb Hall.
 
 ### Objectives {-}
 Your objectives for this midterm project are threefold: (1) identify an area of
-TJL's business that is worth looking into; (2) evaluate three alternative
-directions that TJL could go in in this respect; and (3) develop a comprehensive
-and convincing action plan that logically flows from what you learn.
+TJL's business worth looking into; (2) evaluate three alternative directions
+that TJL could go in in this respect; and (3) develop a comprehensive and
+convincing action plan that logically flows from what you learn.
 
 #### Topic Identification {-}
-How should you go about identifying an area of TJL's business that is worth
-looking into? In line with @colquitt-george-2011, you should strive to identify
-and address an area of inquiry that:
+How should you go about identifying an area of TJL's business worth looking
+into? In line with @colquitt-george-2011, you should strive to identify and
+address an area of inquiry that:
 
 * __Takes on a grand challenge__ (i.e., has a compelling raison d'être)
     + By aiming to solve a piece of a larger societal puzzle and, thus, having a
@@ -67,8 +67,8 @@ and address an area of inquiry that:
 * __Catches and holds Mike and Sarah's attention__
     + By challenging their taken-for-granted assumptions and solving a mystery
     you uncover that has multiple plausible endings and cannot be guessed.
-* __Offers insights for practice__
-    + By estimating the potential effect of a new and important practice and
+* __Offers actionable insights__
+    + By estimating the potential effect of a new and important initiative and
     conveying findings that Mike and Sarah will be able to act on in the near
     term.
 
@@ -80,22 +80,22 @@ a market orientation.
 
 As you develop a list of potential topics to focus on, try your best to be
 [divergent][peng 2018] in your thinking [@peng-2018]. Begin by conducting
-extensive research on [Business Source Complete][], [Elevate][],
-[Euromonitor][], [Factiva][], [Google Trends][], [IBISWorld][], [Instagram][],
-[Mergent Intellect][], [Yelp][], and other platforms (see the [Commerce
-LibGuide][] for options). This research, which can also occur outside of TJL's
-and its competitors' storefronts at a safe physical distance from others, will
+extensive research on [Business Source Complete][], [Data Planet][],
+[Elevate][], [Euromonitor][], [Factiva][], [Google Trends][], [IBISWorld][],
+[Instagram][], [Mergent Intellect][], [Yelp][], and other platforms (see the
+[Commerce LibGuide][] for options). This research, which can also occur outside
+of TJL's and its competitors' storefronts at a safe distance from others, will
 guide you to challenges that TJL is facing [e.g., some consumers think TJL
 offers low [value][zeithaml 1988]; @zeithaml-1988] as well as promising
 alternatives that Mike and Sarah could consider implementing to address these
-challenges (e.g., launching an Instagram campaign focused on educating their
-followers about the true cost of food).
+challenges (e.g., launching a promotional campaign focused on transparent
+pricing).
 
 * __Pro tip__: Be [radically open minded][gallo 2017]&mdash;and [productively
 stupid][schwartz 2008] [@schwartz-2008]&mdash;as you search for challenges and
 strive not to let confirmation bias contaminate your findings [@gallo-2017].  
 * __Pro tip__: Organize your observations into datasets, such as those discussed
-in [Chapter 12][r4ds 12] of R for Data Science so you can summarize them both
+in [Chapter 12][r4ds 12] of R for Data Science, so you can summarize them both
 statistically and visually [@wickham-grolemund-2017]. This process will add
 rigor to your analysis and the insights you generate.
 
@@ -114,25 +114,25 @@ and (b) the alternatives your research has led you to consider.
 #### Alternative Evaluation {-}
 Focused on the topic you identify, your next objective is to, in a concise and
 well-balanced manner, explain the three fundamentally different directions that
-you believe TJL should consider going in (one of which can be related to
+you believe TJL should consider going in (one of which may be related to
 improving the status quo at TJL). Further, you should arrive at and implement a
 set of criteria that you believe Mike and Sarah should use to make decisions of
 this sort.
 
 With alternatives and criteria in hand, you will be able to complete a [value
-model][johnson 2018] for decision-making purposes [@johnson-2018]. You might
-find it helpful to structure your value model using the exhibit on page four of
-the [midterm report template][]. Overall, your goal should be to evaluate a set
-of well-balanced alternatives with a ranked set of relevant decision criteria in
-order to propose a course of action in a convincing manner.
+model][johnson 2018] for decision-making purposes [@johnson-2018]. I am
+expecting you to structure your value model using the exhibit skeleton on page
+four of the [midterm report template][]. Overall, your goal should be to
+evaluate a set of well-balanced alternatives with a ranked set of relevant
+decision criteria in order to propose a course of action in a convincing manner.
 
 On this point, you should strive to explain your alternatives clearly and define
 your criteria well so that the scores you assign to alternatives in your value
 model will seem logical. In other words, try to increase the chances that
-separate people (namely, your peers, Mike, Sarah, and I) will more or less agree
-on the scores you assign to given alternative-criterion pairs and, thus, the
-logic underlying your strategic recommendation by explaining your alternatives
-clearly and defining/ranking your criteria cogently.
+separate people (namely, Mike, Sarah, employees of TJL, and I) will more or less
+agree on the scores you assign to given alternative-criterion pairs and, thus,
+the logic underlying your strategic recommendation by explaining your
+alternatives clearly and defining/ranking your criteria cogently.
 
 While analyzing and communicating insights about these and other datasets, the
 key is to describe the provenance of your data parsimoniously and to define the
@@ -142,21 +142,23 @@ credibly [@zhang-shaw-2012].
 #### Action Plan {-}
 Having made your decision, your final objective is to develop an action plan
 that covers relevant elements of the marketing mix (e.g., product, price,
-promotion, and place) seamlessly and concretely. Completing this objective well
-is important because clients need to understand what has to be done (i.e., by
-who, when, what, where, why, and how?) before they can accept your claims and
-even begin to consider implementing your recommendation. In order to set
-expectations, strive to establish goals related to consumers' attitudes,
-emotions, and/or actions as well as to TJL's triple bottom line [i.e., profits,
-people, and the planet; @elkington-2018] in [specific, measurable, achievable,
-relevant, and time-bound][Miller 2018] ways [@miller-2017].
+promotion, and place) seamlessly and concretely. One of the most effective ways
+to create a concrete action plan is to include mock ups for executions (e.g.,
+social media posts). Completing this objective well is important because clients
+need to understand what has to be done (i.e., by who, when, what, where, why,
+and how?) before they can accept your claims and even begin to consider
+implementing your recommendation. In order to set expectations, strive to
+establish goals related to consumers' attitudes, emotions, and/or actions as
+well as to TJL's triple bottom line [i.e., profits, people, and the planet;
+@elkington-2018] in [specific, measurable, achievable, relevant, and
+time-bound][Miller 2018] ways [@miller-2017].
 
 ## Expectations {-}
 
 ### Content {-}
 This midterm report is your opportunity to show Mike and Sarah Keenan that you
 have thought critically, and in a divergent manner [@peng-2018], about their
-business. What should TJL's top priority be, and why? What makes this topic
+business. What should TJL's top priority be, and why? What makes your topic
 significant, actionable, and interesting? What alternative approaches should TJL
 be considering in this area, and how should Mike and Sarah be going about
 deciding among these alternatives? Ultimately, your report should advocate for
@@ -165,9 +167,9 @@ some sort of strategic change to TJL's marketing mix in a well-reasoned manner.
 More granularly, you should base the action plan you advocate for in your report
 on the shoulders of (i) a topic with an impressive anatomy
 [@colquitt-george-2011]; (ii) a decision-making process with strong
-[principles][Dalio 2017] [@dalio-2017]; (iii) analysis that is described
+[principles][Dalio 2017] [@dalio-2017]; (iii) analysis that you describe
 clearly, completely, and credibly [@zhang-shaw-2012]; (iv) a breadth and depth
-of analyses that are applied [accurately and reproducibly][Parker 2017]
+of analyses that you apply [accurately and reproducibly][Parker 2017]
 [@parker-2017]; and (v) [stylish writing][Sword 2012] [@sword-2012].
 
 ### Structure {-}
@@ -193,10 +195,10 @@ I will use the [Case Report Rubric][] to assess your report, which is worth ten
 percent of COMM 3020, and to give you developmental feedback.
 
 ### Submission {-}
-Your report is due on Tuesday, November 3 at 12:01 am. Submit your report via
-BlackBoard [here][report submission link], and use the following naming
+Your report is due on Tuesday, November 9 at 11:59 pm. Submit your report via
+Blackboard [here][report submission link], and use the following naming
 convention for the file you submit: “b#-last-first.docx” (e.g.,
-“b5-hammond-austin.docx”). If you collect data or conduct analyses to inform
+“b5-andrews-alexandra.docx”). If you collect data or conduct analyses to inform
 your report, you should add this material to your submission via an electronic
 supplement. Use the same naming convention for this file (e.g.,
 “b#-last-first.xlsx”). Your report and supplements should all make stand-alone
@@ -217,6 +219,7 @@ lower grade (–2 out of 100 possible points).
 [elevate]: https://www.elevatemealplan.com/uva-meal-plan
 [euromonitor]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [factiva]: http://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
+[data planet]: http://proxy01.its.virginia.edu/login?url=http://statisticaldatasets.data-planet.com/dataplanet
 [gallo 2017]: https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
 [given datasets]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_140719_1&course_id=_2942_1
 [Google Trends]: https://trends.google.com/trends/
@@ -226,7 +229,7 @@ lower grade (–2 out of 100 possible points).
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
 [IBISWorld]: http://proxy.its.virginia.edu/login?url=http://www.ibisworld.com/
 [instagram]: https://www.instagram.com/
-[Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-168065-dt-content-rid-1296347_1/xid-1296347_1
+[Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195259-dt-content-rid-1803855_1/xid-1803855_1
 [johnson 2018]: https://nyti.ms/2C558Py
 [jolles 2019]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
 [juicelaundry]: https://github.com/GCOM7140/juicelaundry#juicelaundry
