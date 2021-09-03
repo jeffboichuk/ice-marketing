@@ -53,10 +53,7 @@ binder
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing  
-- Discuss your analysis of the Hubspot case before our next session of
-marketing. As you prepare for and engage in your group discussion, you might
-find it helpful to consider the following guidelines that [Haywood-Farmer]
-[haywood-farmer-2008] [-@haywood-farmer-2008] suggests adhering to:  
+- Discuss your analysis of the Hubspot case before our next session of marketing. As you prepare for and engage in your group discussion, you might find it helpful to consider the following guidelines that [Haywood-Farmer][haywood-farmer-2008] [-@haywood-farmer-2008] suggests adhering to:
     + Develop a thorough understanding of the case prior to your group meeting  
     + Participate actively in the discussion and take your own notes (consensus
     is neither necessary, nor expected)
