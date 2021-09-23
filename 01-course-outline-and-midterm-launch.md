@@ -26,6 +26,8 @@ making decisions to optimize the triple bottom line
 
 - [Market Orientation: The Construct, Research Propositions, and Managerial
 Implications][kohli-jaworski-1990] [@kohli-jaworski-1990]  
+    - Focus on the section titled "Explicating the Market Orientation Construct"
+    on pages four through six
 - [Midterm Project Outline][]
 
 ## Discussion Questions {-}
