@@ -245,7 +245,7 @@ lower grade (–2 out of 100 possible points).
 [on the Corner]: https://www.thejuicelaundry.com/about/locations/the-corner
 [parker 2017]: https://peerj.com/preprints/3210/
 [peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
-[report submission link]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163593_1
+[report submission link]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_195663_1&course_id=_3493_1&group_id=&mode=view
 [schwartz 2008]: http://jcs.biologists.org/content/121/11/1771
 [slogan]: https://www.instagram.com/p/Bf_D0ZRHzEL/?taken-by=thejuicelaundry 
 [sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
