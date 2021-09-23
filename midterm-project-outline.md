@@ -142,16 +142,20 @@ credibly [@zhang-shaw-2012].
 #### Action Plan {-}
 Having made your decision, your final objective is to develop an action plan
 that covers relevant elements of the marketing mix (e.g., product, price,
-promotion, and place) seamlessly and concretely. One of the most effective ways
-to create a concrete action plan is to include mock ups for executions (e.g.,
-social media posts). Completing this objective well is important because clients
-need to understand what has to be done (i.e., by who, when, what, where, why,
-and how?) before they can accept your claims and even begin to consider
-implementing your recommendation. In order to set expectations, strive to
-establish goals related to consumers' attitudes, emotions, and/or actions as
-well as to TJL's triple bottom line [i.e., profits, people, and the planet;
-@elkington-2018] in [specific, measurable, achievable, relevant, and
-time-bound][Miller 2018] ways [@miller-2017].
+promotion, and place) seamlessly and concretely. 
+
+One of the most effective ways to create a concrete action plan is to include
+mock ups for executions (e.g., social media posts). Completing this objective
+well is important because clients need to understand what has to be done (i.e.,
+by who, when, what, where, why, and how?) before they can accept your claims and
+even begin to consider implementing your recommendation. Online tools such as
+[Canva][], [NordicClick][], and [Zeoob][] make it easy to develop meaningful
+mock ups that will bring your ideas to life.
+
+In order to set expectations, strive to establish [specific, measurable,
+achievable, relevant, and time-bound goals][Miller 2018] [@miller-2017] that are
+related to consumers' attitudes, emotions, and/or actions as well as TJL's
+triple bottom line [i.e., profits, people, and the planet [@elkington-2018]].
 
 ## Expectations {-}
 
@@ -210,6 +214,7 @@ lower grade (–2 out of 100 possible points).
 [appropriately]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
 [at the AFC]: https://www.thejuicelaundry.com/about/locations/the-afc
 [business source complete]: http://proxy.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=bth
+[canva]: https://www.youtube.com/watch?v=GtxK5Kic_Gk
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
 [commerce libguide]: https://guides.lib.virginia.edu/commerce
 [compostable]: https://www.instagram.com/p/B2TwAjcFoPx/
@@ -236,6 +241,7 @@ lower grade (–2 out of 100 possible points).
 [Mergent Intellect]: http://proxy01.its.virginia.edu/login?url=https://www.mergentintellect.com
 [midterm report template]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/midterm-project-outline/midterm-report-template.docx
 [miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
+[nordicclick]: https://www.nordicclick.com/resources/google-ads-preview-tool/
 [on the Corner]: https://www.thejuicelaundry.com/about/locations/the-corner
 [parker 2017]: https://peerj.com/preprints/3210/
 [peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
@@ -247,3 +253,4 @@ lower grade (–2 out of 100 possible points).
 [value proposition]: https://www.instagram.com/p/BYoOJaPjCGz/?taken-by=thejuicelaundry
 [yelp]: https://www.yelp.com/
 [zeithaml 1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85
+[zeoob]: https://zeoob.com/
