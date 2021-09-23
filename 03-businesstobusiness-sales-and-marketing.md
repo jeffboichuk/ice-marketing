@@ -15,6 +15,8 @@ marketing
 - [Brian Martin][], Chief Revenue Officer, [Litmus][] (McIntire '96) will be
 guest lecturing this class session. Research him and Litmus via LinkedIn and the
 Internet in advance of class.
+- [SaaS and the Rule of 40: Keys to the Critical Value Creation Metric][forty]
+[@roche-tandon-2021]
 
 ## Discussion Questions {-}
 
@@ -39,5 +41,6 @@ job candidates?
 
 [brian martin]: https://www.linkedin.com/in/brian-martin-b177861/
 [discussion-questions-submission-03]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191692_1&course_id=_3493_1
+[forty]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-196864-dt-content-rid-1857001_1/xid-1857001_1
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
 [litmus]: https://www.litmus.com/
