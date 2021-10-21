@@ -39,6 +39,8 @@ today's class
 
 - [Starbucks Case Reflection][starbucks-case-reflection]  
 - Answers to the discussion questions for our next session of marketing
+- Discuss your analysis of the JUST (A) case with your group members before our
+next session of marketing
 
 [discussion-questions-submission-06]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191695_1&course_id=_3493_1
 [harvard-course-pack]: https://hbsp.harvard.edu/import/850099

@@ -6,7 +6,7 @@
 
 ## Objective {-}
 
-- To begin developing your ability to argue for and against managerial decisions
+- To continue developing your ability to argue for and against managerial decisions
 in a persuasive manner through deliberate practice  
 - To discuss the merits of product-oriented marketing strategies
 
@@ -38,14 +38,8 @@ members
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing  
-- Discuss your analysis of the J.C. Penney case before our next session of
-marketing. As you prepare for and engage in your group discussion, you might
-find it helpful to consider the following guidelines that [Haywood-Farmer
-(2008)][haywood-farmer-2008][@haywood-farmer-2008] suggests adhering to:  
-  - Develop a thorough understanding of the case prior to your group meeting  
-  - Participate actively in the discussion and take your own notes (consensus is 
-  neither necessary, nor expected)  
-  - Set a time limit, say 30 minutes, for your discussion and stick to it
+- Discuss your analysis of the Starbucks case with your group members before our
+next session of marketing
 
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
 [discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191694_1&course_id=_3493_1

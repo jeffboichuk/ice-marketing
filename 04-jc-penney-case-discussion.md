@@ -47,7 +47,7 @@ group members
 
 - [J.C. Penney Case Reflection][jc-penney-case-reflection]  
 - Answers to the discussion questions for our next session of marketing  
-- Discuss your analysis of the JUST (A) case with your group members before our
+- Discuss your analysis of the Tesla case with your group members before our
 next session of marketing
 
 [discussion-questions-submission-04]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191693_1&course_id=_3493_1
