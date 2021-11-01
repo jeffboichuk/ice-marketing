@@ -6,7 +6,7 @@
 
 ## Objective {-}
 
-- To work on developing action plans for IIP 2 of the Allianz project that are
+- To work on developing action plans for IIP 3 of the Allianz project that are
 seamless and concrete
 
 ## Readings {-}
@@ -16,20 +16,20 @@ seamless and concrete
 ## Discussion Question {-}
 
 How should Allianz implement your recommendation, and how did you arrive at
-these implementation choices? IIP 2 asks you to form a well-reasoned answer to
+these implementation choices? IIP 3 asks you to form a well-reasoned answer to
 this question that spans the four elements of the marketing mix.
 
 Rather than have separate paragraphs or sections for each of the four Ps, the
-action plan you advance in your IIP 2 Client Report should be *seamless*. As is
-true for inter-disciplinary curriculum in business schools, the best action
-plans are integrated. What does this mean practically? You should think of the
-marketing mix as a framework you can use to create a comprehensive action plan.
-However, it would be a mistake to let the framework silo your thinking or the
-structure of your output. Again, you should *not* separate your action plan into
-four paragraphs or sections, one for each element of the marketing mix. Instead,
-describe how Allianz should bring your initiative to market by weaving
-specifications for elements of the marketing mix into a holistic action plan
-seamlessly.
+action plan you advance in your IIP 3 Client Standalone Deck Report should be
+*seamless*. As is true for inter-disciplinary curriculum in business schools,
+the best action plans are integrated. What does this mean practically? You
+should think of the marketing mix as a framework you can use to create a
+comprehensive action plan. However, it would be a mistake to let the framework
+silo your thinking or the structure of your output. Again, you should *not*
+separate your action plan into four paragraphs or sections, one for each element
+of the marketing mix. Instead, describe how Allianz should bring your initiative
+to market by weaving specifications for elements of the marketing mix into a
+holistic action plan seamlessly.
 
 You might find it helpful to think of yourself and your group members as
 composers of orchestral music and the four Ps as wind, string, percussion, and
@@ -38,8 +38,8 @@ these instruments, your task is to produce an action plan that unifies the four
 Ps. Orchestral writers produce music that a sequence of solos would fall far
 short of. As a result, symphonies are greater than the sum of their parts.
 Analogously, you should strive to combine elements of the marketing mix
-synergistically. As a result, your action plan will be greater than a sum of the
-four Ps.
+synergistically. As a result, your action plan will be greater than the sum of
+the four Ps.
 
 The best action plans are also *concrete*. What does this mean practically? You
 should not leave statements like "we think the line of Allianz products that we
@@ -51,12 +51,12 @@ bring your recommendations to life by pushing your analysis beyond the abstract.
 The action plan you develop should unambiguously describe what your initiative
 would look like in the market and get as close to reality as possible.
 
-Come to class having individually written at least a page of new ideas for your
-group's action plan. Strive to describe how Allianz should implement your
+Come to class having individually written at least a page of *new* ideas for
+your group's action plan. Strive to describe how Allianz should implement your
 recommendation, and how you arrived at these implementation choices, both
 seamlessly and concretely. In class, your group will be given time to share your
 ideas with one another, offer constructive feedback, and make progress on your
-IIP 2 Client Stand-alone Deck Report.
+IIP 3 Client Standalone Deck Report.
 
 ## Assignments Due {-}
 
