@@ -29,8 +29,7 @@ facts].
 2. How should JUST bring the chicken nuggets described in
 @yemen-boichuk-cian-2018-b to market? Choose a single element of the marketing
 mix and create a 60-second elevator pitch for JUST Co-Founder and CEO [Josh
-Tetrick][] or another relevant member of the team, who will be video
-conferencing into class for this session.
+Tetrick][], who will be video conferencing into class for this session.
 
 Prepare an answer to this question as you would if you were working on a
 consulting project for Tetrick in "the real world," with the goal of persuading
