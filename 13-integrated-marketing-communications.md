@@ -24,8 +24,6 @@ previous years as case studies and analyze their features.
     - [UVA Adobe Presentation][]  
 - 2021 National Student Advertising Competition Materials  
     - [Tinder Client Brief][]
-    - UVA Tinder Pitch Book  
-    - UVA Tinder Presentation  
 
 ## Discussion Questions {-}
 Skim through and watch the Snapple and Adobe competition materials (i.e., the
