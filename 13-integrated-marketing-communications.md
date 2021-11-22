@@ -14,7 +14,7 @@ previous years as case studies and analyze their features.
 ## Readings {-}
 
 - 2016 National Student Advertising Competition Materials  
-    - [Snapple Client Brief][]  
+    - [Snapple Client Brief][]  (Password: Snapply)
     - [UVA Snapple Pitch Book][]  
     - [UVA Snapple Presentation (Part 1 of 2)][]  
     - [UVA Snapple Presentation (Part 2 of 2)][]  
@@ -28,20 +28,26 @@ previous years as case studies and analyze their features.
     - UVA Tinder Presentation  
 
 ## Discussion Questions {-}
-Skim through and watch all three sets of competition materials. Then choose one
-of the three competitions (Snapple, Adobe, or Tinder) and answer the following
-questions in detail.
+Skim through and watch the Snapple and Adobe competition materials (i.e., the
+client briefs, pitch books, and presentations). Then choose one competition
+(Snapple or Adobe) and answer the following questions in detail.
 
 1. What data and research informed the UVA promo class’ campaign strategy?  
 2. What one or two high-level problems did the UVA promo class identify for the
-client (i.e., Snapple, Adobe, or Tinder)?  
-3. What solutions did the UVA promo class advocate for? In other words, what
-were the overarching themes of the campaign they pitched?  
+client (i.e., Snapple or Adobe)?  
+3. What solutions did the UVA promo class advocate for? In other words, what was
+the overarching theme of the campaign they pitched?
 4. Which of the UVA promo class' executions  (i.e., mock-ups) did you find to be
 the most compelling? How did they leverage it to bring their campaign to life
 seamlessly, concretely, and effectively?  
 5. How did the UVA promo class assure the judges that their campaign would be
 successful?  
+
+After completing these questions, familiarize yourself with the Tinder client
+brief. In class, you and a group of four or five students will develop ideas for
+how you would approach the competition. Subsequently, we will review the
+promotion class' national championship campaign as a class and answer the above
+five questions for it.
 
 ## Assignments Due {-}
 
