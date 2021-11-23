@@ -14,7 +14,7 @@ previous years as case studies and analyze their features.
 ## Readings {-}
 
 - 2016 National Student Advertising Competition Materials  
-    - [Snapple Client Brief][]  (Password: Snapply)
+    - [Snapple Client Brief][] (Password: Snapply)
     - [UVA Snapple Pitch Book][]  
     - [UVA Snapple Presentation (Part 1 of 2)][]  
     - [UVA Snapple Presentation (Part 2 of 2)][]  
@@ -23,7 +23,7 @@ previous years as case studies and analyze their features.
     - [UVA Adobe Pitch Book][]  
     - [UVA Adobe Presentation][]  
 - 2021 National Student Advertising Competition Materials  
-    - [Tinder Client Brief][]
+    - [Tinder Client Brief][] (Password: MATCHxAAF2021!)
 
 ## Discussion Questions {-}
 Skim through and watch the Snapple and Adobe competition materials (i.e., the
@@ -64,7 +64,7 @@ five questions for it.
 [Adobe Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191679-dt-content-rid-1788025_1/xid-1788025_1
 [UVA Adobe Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191680-dt-content-rid-1788027_1/xid-1788027_1
 [UVA Adobe Presentation]: https://video.comm.virginia.edu/media/UVA+Adobe+Presentation/1_yijvdzoz
-[Tinder Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195112-dt-content-rid-1801983_1/xid-1801983_1
+[Tinder Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195112-dt-content-rid-1958384_1/xid-1958384_1
 [UVA Tinder Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195113-dt-content-rid-1801984_1/xid-1801984_1
 [UVA Tinder Presentation]:  https://video.comm.virginia.edu/media/UVA+Tinder+Presentation/1_c350m7c9
 [discussion-questions-submission-13]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191701_1&course_id=_3493_1
