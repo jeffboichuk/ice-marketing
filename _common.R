@@ -4,37 +4,37 @@ library(glue)
 
 tibble(
    date = mdy(
-      "10-07-2021", # 1
-      "10-14-2021", # 2
-      "10-19-2021", # 3
-      "10-21-2021", # 4
-      "10-26-2021", # 5
-      "10-28-2021", # 6
-      "11-02-2021", # 7
-      "11-04-2021", # 8
-      "11-09-2021", # 9
-      "11-11-2021", # 10
-      "11-16-2021", # 11
-      "11-18-2021", # 12
-      "11-23-2021", # 13
-      "11-30-2021", # 14
-      "12-02-2021"  # 15
+      "10-06-2022", # 1
+      "10-11-2022", # 2
+      "10-13-2022", # 3
+      "10-18-2022", # 4
+      "10-20-2022", # 5
+      "10-25-2022", # 6
+      "10-27-2022", # 7
+      "11-01-2022", # 8
+      "11-03-2022", # 9
+      "11-10-2022", # 10
+      "11-15-2022", # 11
+      "11-17-2022", # 12
+      "11-22-2022", # 13
+      "11-29-2022", # 14
+      "12-01-2022"  # 15
    ),
    topic = c(
-      "Course Outline and Midterm Launch",                                  # 1
-      "Hubspot Case Discussion",                                            # 2
-      "Business-to-Business Sales and Marketing",                           # 3
-      "J.C. Penney Case Discussion",                                        # 4
-      "Tesla Case Discussion",                                              # 5
-      "Starbucks Case Discussion",                                          # 6
-      "Just (A) Case Discussion",                                           # 7
-      "Midpoint Review and Allianz Project Working Session",                # 8
-      "Midterm",                                                            # 9
-      "The Sales Process",                                                  # 10
-      "The Road to Retail (Online and Offline)",                            # 11
-      "Just (B) Case Discussion",                                           # 12
-      "Integrated Marketing Communications",                                # 13
-      "1-800-Flowers.com and Under Armour Case Discussions",                # 14
+      "Course Outline",                                                     # 1
+      "Midterm Launch",                                                     # 2
+      "J.C. Penney Case Discussion",                                        # 3
+      "Hubspot Case Discussion",                                            # 4
+      "Starbucks Case Discussion",                                          # 5
+      "Tesla Case Discussion",                                              # 6
+      "Midpoint Review and Allianz Project Working Session",                # 7
+      "Just Case Discussion",                                               # 8
+      "The Sales Process",                                                  # 9
+      "Midterm",                                                            # 10
+      "Integrated Marketing Communications",                                # 11
+      "Midterm Feedback",                                                   # 12
+      "Group Presentation Prep",                                            # 13
+      "TBD",                                                                # 14
       "Review"                                                              # 15
    )
 ) %>% 
