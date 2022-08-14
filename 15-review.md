@@ -6,5 +6,5 @@
 
 ## Objective {-}
 
-- To recap the semester and discuss possible futures for the discipline of 
-marketing as well as the aggregate marketing system
+- To outline what you can expect from the final exam and review the core
+concepts we covered this semester

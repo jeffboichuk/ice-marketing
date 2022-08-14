@@ -1,8 +1,8 @@
-# `r class_session[[7, "date"]]` {-}
+# `r class_session[[8, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[7, "topic"]]`
+- `r class_session[[8, "topic"]]`
 
 ## Objective {-}
 
@@ -55,22 +55,17 @@ on.
 
 ## Assignments Due {-}
 
-- [Starbucks Case Reflection][starbucks-case-reflection]  
 - Answers to today's discussion questions  
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-07]  
+    folder][discussion-questions-submission-08]  
 - Discuss your analysis of the JUST (A) case with your group members before
 today’s class
 
 ## Assignments Made {-}
 
 - [JUST Case Reflection][just-case-reflection]  
-- Answers to the discussion questions for Marketing on `r class_session[[7,
-"date"]]`
-- JUST Case Report (for bonus participation credit only; due 
-`r class_session[[8, "date"]]`)
+- Answers to the discussion questions for our next session of marketing  
 
-[discussion-questions-submission-07]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191696_1&course_id=_3493_1
-[harvard-course-pack]: https://hbsp.harvard.edu/import/850099
-[starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
+[discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222301_1&course_id=_3945_1
+[harvard-course-pack]: https://hbsp.harvard.edu/import/957259
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

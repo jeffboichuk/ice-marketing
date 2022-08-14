@@ -1,8 +1,8 @@
-# `r class_session[[8, "date"]]` {-}
+# `r class_session[[7, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[8, "topic"]]`
+- `r class_session[[7, "topic"]]`
 
 ## Objective {-}
 
@@ -60,15 +60,15 @@ IIP 3 Client Standalone Deck Report.
 
 ## Assignments Due {-}
 
-- [JUST Case Reflection][just-case-reflection]  
 - A response to today's discussion question
     - After signing into Blackboard, submit your response to [this
-    folder][discussion-questions-submission-08]
+    folder][discussion-questions-submission-07]
 
 ## Assignments Made {-}
 
-- Answers to the discussion questions for our next session of marketing
+- Answers to the discussion questions for our next session of marketing  
+- Discuss your analysis of the JUST (A) case with your group members before our
+next session of marketing
 
-[discussion-questions-submission-08]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191697_1&course_id=_3493_1
-[Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195259-dt-content-rid-1803855_1/xid-1803855_1
-[just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7
+[discussion-questions-submission-07]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222299_1&course_id=_3945_1&group_id=&mode=view
+[Interdisciplinary Project Project Description]: 

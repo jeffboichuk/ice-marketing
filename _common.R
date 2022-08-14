@@ -28,18 +28,18 @@ tibble(
       "Starbucks Case Discussion",                                          # 5
       "Tesla Case Discussion",                                              # 6
       "Midpoint Review and Allianz Project Working Session",                # 7
-      "Just Case Discussion",                                               # 8
+      "Just (A) Case Discussion",                                           # 8
       "The Sales Process",                                                  # 9
       "Midterm",                                                            # 10
       "Integrated Marketing Communications",                                # 11
       "Midterm Feedback",                                                   # 12
       "Group Presentation Prep",                                            # 13
-      "TBD",                                                                # 14
+      "Just (B) Case Discussion",                                           # 14
       "Review"                                                              # 15
    )
 ) %>% 
    mutate(
-      class_number = row_number() %>% str_pad(width = 2, side = "left", pad = 0),
+      class_number = row_number() %>% str_pad(2, "left", 0),
       date = str_c(
          wday(date, label = TRUE, abbr = FALSE),
          ", ",

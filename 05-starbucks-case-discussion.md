@@ -1,8 +1,8 @@
-# `r class_session[[6, "date"]]` {-}
+# `r class_session[[5, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[6, "topic"]]`
+- `r class_session[[5, "topic"]]`
 
 ## Objective {-}
 
@@ -31,7 +31,7 @@ guiding principles you arrive at cogently.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-06]
+    folder][discussion-questions-submission-05]
 - Discuss your analysis of the Starbucks case with your group members before
 today's class
 
@@ -39,11 +39,11 @@ today's class
 
 - [Starbucks Case Reflection][starbucks-case-reflection]  
 - Answers to the discussion questions for our next session of marketing
-- Discuss your analysis of the JUST (A) case with your group members before our
+- Discuss your analysis of the Tesla case with your group members before our
 next session of marketing
 
-[discussion-questions-submission-06]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191695_1&course_id=_3493_1
-[harvard-course-pack]: https://hbsp.harvard.edu/import/850099
-[chatterji-toffel-2018]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195106-dt-content-rid-1802078_1/xid-1802078_1
+[discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222298_1&course_id=_3945_1
+[harvard-course-pack]: https://hbsp.harvard.edu/import/957259
+[chatterji-toffel-2018]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220273-dt-content-rid-2342929_1/xid-2342929_1
 [starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9
 [just-case-reflection]: https://forms.gle/S6ddmkJJcT3DnVML7

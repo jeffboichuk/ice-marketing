@@ -1,6 +1,6 @@
 # (PART) Midterm Project Outline {-}
 
-# The Juice Laundry {-}
+# Hydration Brand X {-}
 
 ## Overview and Objectives {-}
 
@@ -199,7 +199,7 @@ I will use the [Case Report Rubric][] to assess your report, which is worth ten
 percent of COMM 3020, and to give you developmental feedback.
 
 ### Submission {-}
-Your report is due on Tuesday, November 9 at 11:59 pm. Submit your report via
+Your report is due on Tuesday, November 1 at 11:59 pm. Submit your report via
 Blackboard [here][report submission link], and use the following naming
 convention for the file you submit: “b#-last-first.docx” (e.g.,
 “b5-andrews-alexandra.docx”). If you collect data or conduct analyses to inform
@@ -209,19 +209,15 @@ supplement. Use the same naming convention for this file (e.g.,
 sense. Deviating from the simple instructions in this paragraph will earn you a
 lower grade (–2 out of 100 possible points).
 
-[a lab of sorts]: https://news.virginia.edu/content/seeking-real-world-case-study-one-commerce-professor-turned-corner
 [allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
 [appropriately]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
-[at the AFC]: https://www.thejuicelaundry.com/about/locations/the-afc
 [business source complete]: http://proxy.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=bth
 [canva]: https://www.youtube.com/watch?v=GtxK5Kic_Gk
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
 [commerce libguide]: https://guides.lib.virginia.edu/commerce
-[compostable]: https://www.instagram.com/p/B2TwAjcFoPx/
 [dalio 2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
 [defining principles]: https://www.instagram.com/p/BizUfw1lLqu/?taken-by=thejuicelaundry
 [donaldson and walsh 2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088
-[elevate]: https://www.elevatemealplan.com/uva-meal-plan
 [euromonitor]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [factiva]: http://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
 [data planet]: http://proxy01.its.virginia.edu/login?url=http://statisticaldatasets.data-planet.com/dataplanet
@@ -237,19 +233,16 @@ lower grade (–2 out of 100 possible points).
 [Interdisciplinary Project Project Description]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195259-dt-content-rid-1803855_1/xid-1803855_1
 [johnson 2018]: https://nyti.ms/2C558Py
 [jolles 2019]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
-[juicelaundry]: https://github.com/GCOM7140/juicelaundry#juicelaundry
 [Mergent Intellect]: http://proxy01.its.virginia.edu/login?url=https://www.mergentintellect.com
 [midterm report template]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/midterm-project-outline/midterm-report-template.docx
 [miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
 [nordicclick]: https://www.nordicclick.com/resources/google-ads-preview-tool/
-[on the Corner]: https://www.thejuicelaundry.com/about/locations/the-corner
 [parker 2017]: https://peerj.com/preprints/3210/
 [peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
 [report submission link]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_195663_1&course_id=_3493_1&group_id=&mode=view
 [schwartz 2008]: http://jcs.biologists.org/content/121/11/1771
 [slogan]: https://www.instagram.com/p/Bf_D0ZRHzEL/?taken-by=thejuicelaundry 
 [sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
-[tjl]: https://www.thejuicelaundry.com/
 [value proposition]: https://www.instagram.com/p/BYoOJaPjCGz/?taken-by=thejuicelaundry
 [yelp]: https://www.yelp.com/
 [zeithaml 1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85

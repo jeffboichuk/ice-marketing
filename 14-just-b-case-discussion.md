@@ -1,8 +1,8 @@
-# `r class_session[[12, "date"]]` {-}
+# `r class_session[[14, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[12, "topic"]]`
+- `r class_session[[14, "topic"]]`
 
 ## Objective {-}
 
@@ -29,7 +29,7 @@ facts].
 2. How should JUST bring the chicken nuggets described in
 @yemen-boichuk-cian-2018-b to market? Choose a single element of the marketing
 mix and create a 60-second elevator pitch for JUST Co-Founder and CEO [Josh
-Tetrick][], who will be video conferencing into class for this session.
+Tetrick][].
 
 Prepare an answer to this question as you would if you were working on a
 consulting project for Tetrick in "the real world," with the goal of persuading
@@ -91,13 +91,13 @@ in the food-service sector: fast-food or full-service restaurants?
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-12]
+    folder][discussion-questions-submission-14]
 
 ## Assignments Made {-}
 
-- Answers to the discussion questions for our next session of marketing
+- None 
+    - Because you're done! You made it!! Congratulations!!! 🥳 🎉
 
-[discussion-questions-submission-12]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191700_1&course_id=_3493_1
+[discussion-questions-submission-14]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222304_1&course_id=_3945_1&group_id=&mode=view
 [HBR]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=EBU&J=HARVBUSREV&P=EJP&PT=EZProxy&H=fce003a731&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fsearch.ebscohost.com%2Fdirect.asp%3Fdb%3Dbth%26jid%3DHBR%26scope%3Dsite
-[harvard-course-pack]: https://hbsp.harvard.edu/import/850099
-[josh tetrick]: https://www.linkedin.com/in/joshtetrick/
+[harvard-course-pack]: https://hbsp.harvard.edu/import/957259

@@ -19,8 +19,6 @@ making decisions to optimize the triple bottom line
     projects) were chosen to serve as this course's subject matter  
     - To establish a learning environment that respects differences and diverse
     perspectives and makes all students feel welcome  
-- To establish a clear set of goals, requirements, and performance standards 
-(i.e., grading criteria, grading system) for the midterm project  
 
 ## Readings {-}
 
@@ -28,7 +26,6 @@ making decisions to optimize the triple bottom line
 Implications][kohli-jaworski-1990] [@kohli-jaworski-1990]  
     - Focus on the section titled "Explicating the Market Orientation Construct"
     on pages four through six
-- [Midterm Project Outline][]
 
 ## Discussion Questions {-}
 
@@ -48,21 +45,11 @@ market-oriented companies engage in.
     present should be your own.  
     - You will earn one point toward your in-class participation grade for
     marketing every time you submit your answers on time and to a satisfactory
-    degree. Late submissions will receive zero points without exception.  
-- Print the readings for each class session of marketing and organize them in a
-binder  
+    degree. Late submissions will receive zero points without exception.
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing  
-- Discuss your analysis of the Hubspot case before our next session of marketing. As you prepare for and engage in your group discussion, you might find it helpful to consider the following guidelines that [Haywood-Farmer][haywood-farmer-2008] [-@haywood-farmer-2008] suggests adhering to:
-    + Develop a thorough understanding of the case prior to your group meeting  
-    + Participate actively in the discussion and take your own notes (consensus
-    is neither necessary, nor expected)
-    + Set a time limit, say 30 minutes, for your discussion and stick to it
 
-[discussion-questions-submission-01]:
-https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191690_1&course_id=_3493_1
-[haywood-farmer-2008]: https://www.study.net/sample/pdf/Introductory_Note_on_the_Case_Method.pdf
-[kohli-jaworski-1990]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195100-dt-content-rid-1802077_1/xid-1802077_1
-[Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
+[discussion-questions-submission-01]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222294_1&course_id=_3945_1
+[kohli-jaworski-1990]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220264-dt-content-rid-2342928_1/xid-2342928_1

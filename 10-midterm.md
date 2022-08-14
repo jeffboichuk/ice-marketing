@@ -1,8 +1,8 @@
-# `r class_session[[9, "date"]]` {-}
+# `r class_session[[10, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[9, "topic"]]`
+- `r class_session[[10, "topic"]]`
 
 ## Objective {-}
 
@@ -25,4 +25,4 @@ to a real-life situation
 - Answers to the discussion questions for our next session of marketing
 
 [Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
-[this folder]: https://blackboard.comm.virginia.edu/webapps/blackboard/content/listContent.jsp?course_id=_3248_1&content_id=_163593_1
+[this folder]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222305_1&course_id=_3945_1

@@ -1,18 +1,17 @@
-# `r class_session[[5, "date"]]` {-}
+# `r class_session[[6, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[5, "topic"]]`
+- `r class_session[[6, "topic"]]`
 
 ## Objective {-}
 
-- To continue developing your ability to argue for and against managerial decisions
-in a persuasive manner through deliberate practice  
+- To continue developing your ability to argue for and against managerial
+decisions in a persuasive manner through deliberate practice  
 - To discuss the merits of product-oriented marketing strategies
 
 ## Readings {-}
 
-- [Case Report Rubric][]
 - [2019 Fall ICE Marketing Final Exam][final-2019]
 
 ## Discussion Questions {-}
@@ -28,7 +27,7 @@ evaluating alternatives; or designing an action plan?
 
 ## Assignments Due {-}
 
-- [J.C. Penney Case Reflection][jc-penney-case-reflection]  
+- [Starbucks Case Reflection][starbucks-case-reflection]  
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-05]  
@@ -41,7 +40,6 @@ members
 - Discuss your analysis of the Starbucks case with your group members before our
 next session of marketing
 
-[case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
-[discussion-questions-submission-05]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191694_1&course_id=_3493_1
+[discussion-questions-submission-06]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222300_1&course_id=_3945_1
 [final-2019]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/review-for-the-final-exam/2019-ice-blocks-5-6-final-exam-marketing.docx
-[jc-penney-case-reflection]: https://forms.gle/Fb4qoh8swvCf5uR26
+[starbucks-case-reflection]: https://forms.gle/qDGHceG8AGsdTxeC9

@@ -1,8 +1,8 @@
-# `r class_session[[10, "date"]]` {-}
+# `r class_session[[9, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[10, "topic"]]`
+- `r class_session[[9, "topic"]]`
 
 ## Objective {-}
 
@@ -26,8 +26,12 @@ How would you go about doing so? Set some goals that adhere to SMART principles.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-10]
+    folder][discussion-questions-submission-09]
+    
+## Assignments Made {-}
+- Answers to the discussion questions for marketing on `r class_session[[11,
+"date"]]`  
 
-[discussion-questions-submission-10]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191698_1&course_id=_3493_1
+[discussion-questions-submission-09]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222302_1&course_id=_3945_1
 [jolles-2019]: https://www.amanet.org/articles/i-object-four-steps-to-handling-objections/
 [ye-2020]: https://blog.hubspot.com/sales/ultimate-guide-to-sales-qualification

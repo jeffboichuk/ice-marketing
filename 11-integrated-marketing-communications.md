@@ -1,8 +1,8 @@
-# `r class_session[[13, "date"]]` {-}
+# `r class_session[[11, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[13, "topic"]]`
+- `r class_session[[11, "topic"]]`
 
 ## Objectives {-}
 
@@ -51,20 +51,20 @@ five questions for it.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-13]
+    folder][discussion-questions-submission-11]
 
 ## Assignments Made {-}
 
 - Answers to the discussion questions for our next session of marketing
 
-[Snapple Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191671-dt-content-rid-1788023_1/xid-1788023_1
-[UVA Snapple Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191676-dt-content-rid-1788026_1/xid-1788026_1
+[Snapple Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220277-dt-content-rid-2342933_1/xid-2342933_1
+[UVA Snapple Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220279-dt-content-rid-2342942_1/xid-2342942_1
 [UVA Snapple Presentation (Part 1 of 2)]: https://video.comm.virginia.edu/media/Snapple+Presentation+%28Part+1+of+2%29/1_kfge3ygt?st=81
 [UVA Snapple Presentation (Part 2 of 2)]: https://video.comm.virginia.edu/media/UVA+Snapple+Presentation+%28Part+2+of+2%29/1_kj0lz16j
-[Adobe Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191679-dt-content-rid-1788025_1/xid-1788025_1
-[UVA Adobe Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-191680-dt-content-rid-1788027_1/xid-1788027_1
+[Adobe Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220280-dt-content-rid-2342941_1/xid-2342941_1
+[UVA Adobe Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220283-dt-content-rid-2342907_1/xid-2342907_1
 [UVA Adobe Presentation]: https://video.comm.virginia.edu/media/UVA+Adobe+Presentation/1_yijvdzoz
-[Tinder Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195112-dt-content-rid-1958384_1/xid-1958384_1
+[Tinder Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220285-dt-content-rid-2342930_1/xid-2342930_1
 [UVA Tinder Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195113-dt-content-rid-1801984_1/xid-1801984_1
-[UVA Tinder Presentation]:  https://video.comm.virginia.edu/media/UVA+Tinder+Presentation/1_c350m7c9
-[discussion-questions-submission-13]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_191701_1&course_id=_3493_1
+[UVA Tinder Presentation]: https://video.comm.virginia.edu/media/UVA+Tinder+Presentation/1_c350m7c9
+[discussion-questions-submission-11]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222303_1&course_id=_3945_1&group_id=&mode=view

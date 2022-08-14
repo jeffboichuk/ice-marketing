@@ -15,10 +15,11 @@ effectively through online and offline channels of distribution
 
 ## Discussion Questions {-}
 
-1. In what ways has the COVID-19 pandemic accelerated the shift in consumer
+1. In what ways did the COVID-19 pandemic accelerate the shift in consumer
 spending from offline to online channels of distribution?  
-2. Where will the balance of consumer spending between online and offline
-purchases settle after the current public health crisis is behind us?
+2. Where has the balance of consumer spending between online and offline
+purchases settled since the government's response to the pandemic was at its
+peak in 2020 and 2021?
 
 ## Assignments Due {-}
 
