@@ -4,7 +4,7 @@ before_chapter_script: "_common.R"
 rmd_files: [
   "index.Rmd",
   
-  "midterm-project-outline.md",
+  # "midterm-project-outline.md",
   
   "01-course-outline.md",
   "02-midterm-launch.md",
