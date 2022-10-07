@@ -40,7 +40,7 @@ to:
     + Develop a thorough understanding of the case prior to your group meeting  
     + Participate actively in the discussion and take your own notes (consensus
     is neither necessary, nor expected)
-    + Set a time limit, say 30 minutes, for your discussion and stick to it
+    + Set a time limit, say 30 minutes, for your discussion and stick to it.
     
 [case report rubric]: https://github.com/jeffboichuk/ice-marketing/raw/master/files/generating-market-intelligence/rubric-for-case-reports.pdf
 [Midterm Project Outline]: https://boichuk.commerce.virginia.edu/hydration-brand-x.html
