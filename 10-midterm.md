@@ -24,5 +24,5 @@ to a real-life situation
 
 - Answers to the discussion questions for our next session of marketing
 
-[Midterm Project Outline]: https://boichuk.commerce.virginia.edu/the-juice-laundry.html
+[Midterm Project Outline]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-222305-dt-content-rid-2435224_1/xid-2435224_1
 [this folder]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222305_1&course_id=_3945_1
