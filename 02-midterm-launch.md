@@ -25,7 +25,6 @@ goals can you set to ensure procrastination doesn't get the better of you?
 
 ## Assignments Due {-}
 
-- [Hubspot Case Reflection][hubspot-case-reflection]  
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
     folder][discussion-questions-submission-02]
@@ -46,4 +45,3 @@ to:
 [Midterm Project Outline]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-222305-dt-content-rid-2435224_1/xid-2435224_1
 [haywood-farmer-2008]: https://www.johnson.cornell.edu/wp-content/uploads/sites/3/2019/06/Intro-Case-Method-2.pdf
 [discussion-questions-submission-02]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222295_1&course_id=_3945_1
-[hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
