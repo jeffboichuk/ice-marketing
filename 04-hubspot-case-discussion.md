@@ -54,7 +54,7 @@ today’s class
 next session of marketing
 
 [discussion-questions-submission-04]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222297_1&course_id=_3945_1
-[faciva]: http://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA  
+[factiva]: http://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA 
 [harvard-coursepack]: https://hbsp.harvard.edu/import/957259
 [hubspot-case-reflection]: https://forms.gle/NtDJnoZD7U2hDnXd6
 [johnson]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195098-dt-content-rid-1802076_1/xid-1802076_1
