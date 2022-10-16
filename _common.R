@@ -31,10 +31,10 @@ tibble(
       "Just (A) Case Discussion",                                           # 8
       "The Sales Process",                                                  # 9
       "Midterm",                                                            # 10
-      "Integrated Marketing Communications",                                # 11
+      "The Road to Retail: Online and Offline",                             # 11
       "Midterm Feedback",                                                   # 12
       "Group Presentation Prep",                                            # 13
-      "Just (B) Case Discussion",                                           # 14
+      "Integrated Marketing Communications",                                # 14
       "Review"                                                              # 15
    )
 ) %>% 
