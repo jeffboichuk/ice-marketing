@@ -1,8 +1,8 @@
-# `r class_session[[14, "date"]]` {-}
+# `r class_session[[13, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[14, "topic"]]`
+- `r class_session[[13, "topic"]]`
 
 ## Objectives {-}
 
@@ -51,11 +51,7 @@ five questions for it.
 
 - Answers to today's discussion questions
     - After signing into Blackboard, submit your answers to [this
-    folder][discussion-questions-submission-14]
-
-## Assignments Made {-}
-
-- Answers to the discussion questions for our next session of marketing
+    folder][discussion-questions-submission-13]
 
 [Snapple Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220277-dt-content-rid-2342933_1/xid-2342933_1
 [UVA Snapple Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220279-dt-content-rid-2342942_1/xid-2342942_1
@@ -67,4 +63,4 @@ five questions for it.
 [Tinder Client Brief]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-220285-dt-content-rid-2342930_1/xid-2342930_1
 [UVA Tinder Pitch Book]: https://blackboard.comm.virginia.edu/bbcswebdav/pid-195113-dt-content-rid-1801984_1/xid-1801984_1
 [UVA Tinder Presentation]: https://video.comm.virginia.edu/media/UVA+Tinder+Presentation/1_c350m7c9
-[discussion-questions-submission-14]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222304_1&course_id=_3945_1&group_id=&mode=view
+[discussion-questions-submission-13]: https://blackboard.comm.virginia.edu/webapps/assignment/uploadAssignment?content_id=_222303_1&course_id=_3945_1&group_id=&mode=view

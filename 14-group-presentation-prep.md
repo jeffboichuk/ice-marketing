@@ -1,8 +1,8 @@
-# `r class_session[[13, "date"]]` {-}
+# `r class_session[[14, "date"]]` {-}
 
 ## Topic {-}
 
-- `r class_session[[13, "topic"]]`
+- `r class_session[[14, "topic"]]`
 
 ## Objective {-}
 
@@ -17,7 +17,3 @@ client report deck for your IIP4 presentation
 example, if you're wondering how you can bring your marketing-mix decisions to
 life in a seamless and concrete manner through your presentation, I'll be more
 than happy to listen to the decisions you're wrestling with and weigh in.
-
-## Assignments Made {-}
-
-- Answers to the discussion questions for our next session of marketing

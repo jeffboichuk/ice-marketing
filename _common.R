@@ -1,5 +1,4 @@
 library(tidyverse)
-library(lubridate)
 library(glue)
 
 tibble(
@@ -33,8 +32,8 @@ tibble(
       "Midterm",                                                            # 10
       "The Road to Retail: Online and Offline",                             # 11
       "Midterm Feedback",                                                   # 12
-      "Group Presentation Prep",                                            # 13
-      "Integrated Marketing Communications",                                # 14
+      "Integrated Marketing Communications",                                # 13
+      "Group Presentation Prep",                                            # 14
       "Review"                                                              # 15
    )
 ) %>% 
